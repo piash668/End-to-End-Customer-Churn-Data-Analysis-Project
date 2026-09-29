@@ -1,6 +1,7 @@
 # End-to-End-Customer-Churn-Data-Analysis-Project
 End-to-end Customer Churn Data Analysis pipeline utilizing Python (Pandas) for ETL &amp; feature engineering, MySQL for querying, and Power BI for interactive dashboard visualization.
 ---
+<img width="893" height="501" alt="PBI Screenshot" src="https://github.com/user-attachments/assets/a906e5d3-11fe-4818-bbc8-18a3b8125c20" />
 
 ## 🛠️ Tech Stack & Tools
 
