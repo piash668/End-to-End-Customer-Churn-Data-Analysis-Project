@@ -1,0 +1,493 @@
+Customer_ID,Customer_Name,Gender,Age,State,City,Tenure_Months,Subscription_Type,Monthly_Charges,Total_Charges,Contract_Type,Payment_Method,Internet_Service,Tech_Support,Senior_Citizen,Dependents,Churn,Last_Interaction_Date,Customer_Value,Monthly_Revenue,Tenure_Group,Senior_Flag,Churn_Flag
+C1000,Abhishek Jaiswal,Female,35.0,Maharashtra,Pune,58.0,Basic,1614.26,93273.08,One Year,UPI,Fiber,Yes,No,Yes,No,2025-12-10,93627.08,1614.26,49-72,Adult,0.0
+C1002,Pooja Singh,Female,42.0,Up,Kanpur,13.0,Basic,555.03,6869.39,Month-To-Month,Debit Card,5G,No,No,No,Yes,,7215.389999999999,555.03,13-24,Adult,1.0
+C1004,Mohit Arora,male,26.0,Gujarat,Ahmedabad,6.0,Premium,314.02,1926.12,One Year,Debit Card,Cable,Yes,No,No,No,2026-02-04,1884.12,314.02,0-12,Adult,0.0
+C1006,Neha Verma,Female,18.0,Delhi,Noida,70.0,Standard,2008.83,140376.1,Month-To-Month,UPI,DSL,Yes,No,No,No,,140618.1,2008.83,49-72,Adult,0.0
+C1007,Vikas Yadav,Male,61.0,Delhi,,57.0,Basic,2196.18,125145.26,One Year,Cash,Cable,Yes,Yes,Yes,No,,125182.26,2196.18,49-72,Senior,0.0
+C1008,Mohit Arora,Male,45.0,Gujarat,Ahmedabad,63.0,Basic,1200.0,75799.15,Two Year,Unknown,Fiber,Yes,No,No,No,,75600.0,1200.0,49-72,Adult,0.0
+C1010,Anjali Mehta,Male,60.0,Delhi,Delhi,12.0,Standard,934.28,11411.36,Two Year,Credit Card,DSL,No,Yes,No,Yes,2025-03-10,11211.36,934.28,0-12,Senior,1.0
+C1014,Rahul Singh,Male,41.0,Karnataka,Mysuru,16.0,Premium,2226.93,35184.88,Two Year,Net Banking,Cable,Yes,No,No,No,2025-05-10,35630.88,2226.93,13-24,Adult,0.0
+C1015,Pooja Singh,Male,50.0,Delhi,Noida,16.0,Basic,576.03,9489.48,One Year,Cash,5G,No,No,No,No,2026-01-01,9216.48,576.03,13-24,Adult,0.0
+C1018,Amit Sharma,,41.0,Gujarat,Ahmedabad,48.0,Premium,2328.32,111299.36,Month-To-Month,Net Banking,Fiber,Yes,No,Yes,No,2025-04-06,111759.36000000002,2328.32,25-48,Adult,0.0
+C1019,Anjali Mehta,Male,24.0,Up,Lucknow,22.0,Standard,1151.22,25000.84,One Year,Cash,Cable,No,No,Yes,No,2025-05-07,25326.84,1151.22,13-24,Adult,0.0
+C1020,Pooja Singh,Female,22.0,Up,Lucknow,19.0,Premium,1983.04,38142.76,Month-To-Month,Net Banking,5G,No,No,Yes,No,,37677.76,1983.04,13-24,Adult,0.0
+C1021,Rohit Kumar,Female,33.0,Maharashtra,Mumbai,38.0,Premium,1294.6,49635.8,One Year,UPI,DSL,Yes,No,Yes,No,,49194.799999999996,1294.6,25-48,Adult,0.0
+C1023,Sneha Jain,Male,48.0,Delhi,Noida,62.0,Basic,430.43,27043.66,Two Year,Credit Card,Cable,No,No,No,No,2025-05-10,26686.66,430.43,49-72,Adult,0.0
+C1024,Rahul Singh,Female,69.0,Delhi,Noida,60.0,Standard,536.7,32345.0,Two Year,Net Banking,Fiber,No,Yes,No,No,,32202.000000000004,536.7,49-72,Senior,0.0
+C1025,Anjali Mehta,Male,70.0,,Delhi,42.0,,1516.78,64151.76,Month-To-Month,UPI,Cable,Yes,Yes,Yes,No,2026-06-03,63704.76,1516.78,25-48,Senior,0.0
+C1026,Priya Gupta,Female,60.0,Delhi,Delhi,46.0,Basic,2261.95,103560.7,Month-To-Month,Credit Card,Fiber,Yes,Yes,No,No,,104049.7,2261.95,25-48,Senior,0.0
+C1028,Pooja Singh,Male,18.0,Delhi,Noida,34.0,Standard,2345.77,80107.18,Month-To-Month,Credit Card,Cable,Yes,No,Yes,No,,79756.18,2345.77,25-48,Adult,0.0
+C1029,Mohit Arora,Female,25.0,Gujarat,Surat,63.0,Premium,2453.94,154710.22,Month-To-Month,Debit Card,Fiber,Yes,No,Yes,No,2025-02-08,154598.22,2453.94,49-72,Adult,0.0
+C1030,Pooja Singh,Female,40.0,Delhi,Noida,35.0,Premium,1875.48,65975.8,Month-To-Month,Credit Card,Fiber,No,No,Yes,Yes,,65641.8,1875.48,25-48,Adult,1.0
+C1031,Abhishek Jaiswal,Male,37.0,Up,,23.0,Premium,1555.38,35431.74,One Year,Debit Card,Fiber,Yes,No,No,Yes,,35773.740000000005,1555.38,13-24,Adult,1.0
+C1032,Vikas Yadav,Male,19.0,Up,Lucknow,71.0,Standard,575.49,40687.79,One Year,Credit Card,Fiber,Yes,No,Yes,No,,40859.79,575.49,49-72,Adult,0.0
+C1033,Vikas Yadav,Male,37.0,Up,Kanpur,28.0,Premium,1848.11,52054.08,Month-To-Month,Cash,Fiber,No,No,Yes,No,2026-04-01,51747.079999999994,1848.11,25-48,Adult,0.0
+C1034,Amit Sharma,Male,29.0,Karnataka,Bengaluru,38.0,Standard,1399.37,52996.06,Month-To-Month,Cash,DSL,Yes,No,Yes,No,,53176.06,1399.37,25-48,Adult,0.0
+C1035,Rahul Singh,Female,38.0,Karnataka,Bengaluru,57.0,Basic,1576.89,89544.73,Month-To-Month,Cash,Fiber,Yes,No,No,No,2025-07-12,89882.73000000001,1576.89,49-72,Adult,0.0
+C1037,Rahul Singh,Male,18.0,Gujarat,Ahmedabad,72.0,Standard,546.66,38971.52,Month-To-Month,Debit Card,Fiber,Yes,No,No,No,,39359.52,546.66,49-72,Adult,0.0
+C1038,Rohit Kumar,Male,21.0,Delhi,Delhi,1.0,Standard,1028.83,684.83,Two Year,UPI,Cable,No,No,No,No,,1028.83,1028.83,0-12,Adult,0.0
+C1039,Pooja Singh,Female,68.0,Karnataka,Mysuru,16.0,Standard,1242.87,19725.92,One Year,Net Banking,Fiber,No,Yes,No,Yes,2026-12-06,19885.92,1242.87,13-24,Senior,1.0
+C1040,Pooja Singh,Female,28.0,Up,Lucknow,29.0,Standard,1076.14,30815.06,Two Year,Debit Card,Fiber,Yes,No,No,No,,31208.06,1076.14,25-48,Adult,0.0
+C1041,Vikas Yadav,Male,36.0,Delhi,Delhi,71.0,Premium,1432.25,101365.75,One Year,Debit Card,Fiber,No,No,Yes,No,,101689.75,1432.25,49-72,Adult,0.0
+C1042,Vikas Yadav,Female,23.0,Delhi,Noida,50.0,Basic,1652.97,82739.5,Month-To-Month,Credit Card,DSL,Yes,No,Yes,Yes,,82648.5,1652.97,49-72,Adult,1.0
+C1043,Vikas Yadav,Male,41.0,Up,Kanpur,5.0,Basic,1807.65,8698.25,Month-To-Month,Credit Card,DSL,No,No,No,No,2026-01-06,9038.25,1807.65,0-12,Adult,0.0
+C1044,Neha Verma,Female,44.0,Up,Kanpur,59.0,Basic,1165.44,69124.96,Two Year,Cash,DSL,No,No,No,No,2025-06-10,68760.96,1165.44,49-72,Adult,0.0
+C1045,Rahul Singh,Female,58.0,Gujarat,Ahmedabad,72.0,Basic,1255.14,90083.08,One Year,Credit Card,DSL,Yes,No,No,No,,90370.08,1255.14,49-72,Adult,0.0
+C1047,Amit Sharma,Male,25.0,Up,Lucknow,68.0,Premium,2331.64,158350.52,Month-To-Month,Cash,DSL,Yes,No,Yes,No,,158551.52,2331.64,49-72,Adult,0.0
+C1048,Neha Verma,Male,19.0,Delhi,Noida,59.0,Standard,1596.9,93810.1,Two Year,Cash,5G,No,No,Yes,Yes,,94217.1,1596.9,49-72,Adult,1.0
+C1049,Priya Gupta,Male,47.0,Delhi,Noida,14.0,Standard,2176.11,30072.54,Month-To-Month,Debit Card,Cable,No,No,Yes,Yes,,30465.54,2176.11,13-24,Adult,1.0
+C1050,Rohit Kumar,Male,67.0,Delhi,Noida,6.0,Basic,762.85,4522.1,Two Year,Debit Card,Fiber,Yes,Yes,Yes,Yes,,4577.1,762.85,0-12,Senior,1.0
+C1051,Vikas Yadav,Male,38.0,Up,Kanpur,43.0,Basic,1877.95,80340.85,Month-To-Month,Credit Card,DSL,No,No,Yes,No,,80751.85,1877.95,25-48,Adult,0.0
+C1052,Anjali Mehta,Female,18.0,Up,Lucknow,32.0,Basic,1509.63,47870.16,Month-To-Month,Credit Card,Fiber,Yes,No,No,No,2026-03-03,48308.16,1509.63,25-48,Adult,0.0
+C1053,Rohit Kumar,Female,53.0,Delhi,Noida,64.0,Standard,1819.81,116719.84,One Year,Cash,DSL,Yes,No,No,No,,116467.84,1819.81,49-72,Adult,0.0
+C1054,Vikas Yadav,Female,66.0,Up,Lucknow,56.0,Standard,577.72,31887.32,One Year,Cash,Fiber,No,Yes,No,No,2026-06-06,32352.32,577.72,49-72,Senior,0.0
+C1055,Anjali Mehta,Female,27.0,Maharashtra,Pune,50.0,Basic,1480.57,74322.5,Month-To-Month,Debit Card,5G,Yes,No,No,No,,74028.5,1480.57,49-72,Adult,0.0
+C1056,Anjali Mehta,Female,41.0,Delhi,Noida,67.0,,2193.44,146941.48,Month-To-Month,Cash,Fiber,No,No,Yes,No,2025-11-06,146960.48,2193.44,49-72,Adult,0.0
+C1057,Rahul Singh,Female,23.0,Delhi,Delhi,72.0,Premium,1766.91,126942.52,,Cash,5G,No,No,No,No,,127217.52,1766.91,49-72,Adult,0.0
+C1058,Rohit Kumar,Male,35.0,Karnataka,Bengaluru,37.0,Premium,1024.67,37591.79,Month-To-Month,UPI,5G,Yes,No,No,No,,37912.79,1024.67,25-48,Adult,0.0
+C1059,Amit Sharma,Male,18.0,Delhi,Noida,24.0,Standard,390.5,9177.0,Two Year,Net Banking,Fiber,No,No,No,No,,9372.0,390.5,13-24,Adult,0.0
+C1060,Amit Sharma,Female,32.0,Up,Lucknow,45.0,Basic,700.1,31958.5,Month-To-Month,Debit Card,Fiber,No,No,No,No,2025-01-09,31504.5,700.1,25-48,Adult,0.0
+C1061,Priya Gupta,Female,42.0,Maharashtra,Mumbai,26.0,Premium,1712.42,44409.92,Two Year,Cash,DSL,Yes,No,No,No,2026-07-02,44522.92,1712.42,25-48,Adult,0.0
+C1062,Anjali Mehta,Female,24.0,Karnataka,Bengaluru,48.0,Basic,2130.32,102490.36,One Year,Net Banking,5G,Yes,No,No,No,,102255.36000000002,2130.32,25-48,Adult,0.0
+C1063,Rohit Kumar,Female,53.0,Up,Kanpur,51.0,Premium,590.33,29652.83,Two Year,Net Banking,Cable,Yes,No,No,Yes,2025-12-02,30106.83,590.33,49-72,Adult,1.0
+C1064,Rahul Singh,Female,38.0,Maharashtra,Pune,51.0,Standard,333.92,16912.92,Month-To-Month,Debit Card,Fiber,No,No,Yes,No,,17029.920000000002,333.92,49-72,Adult,0.0
+C1065,Rohit Kumar,Female,56.0,Up,Kanpur,8.0,Premium,1113.89,8413.12,One Year,UPI,Cable,Yes,No,No,No,2025-03-06,8911.12,1113.89,0-12,Adult,0.0
+C1066,Anjali Mehta,Female,44.0,Gujarat,Surat,43.0,Standard,1235.63,53324.09,Two Year,UPI,5G,No,No,No,No,2026-01-05,53132.090000000004,1235.63,25-48,Adult,0.0
+C1067,Amit Sharma,Female,68.0,Maharashtra,Mumbai,34.0,Premium,2145.38,73102.92,Month-To-Month,Debit Card,DSL,No,Yes,Yes,No,,72942.92,2145.38,25-48,Senior,0.0
+C1068,Anjali Mehta,Female,37.0,Gujarat,Surat,53.0,Standard,2027.78,107901.34,One Year,Credit Card,5G,No,No,No,Yes,,107472.34,2027.78,49-72,Adult,1.0
+C1069,Amit Sharma,Male,34.0,Gujarat,Ahmedabad,26.0,Premium,1706.82,44309.32,Month-To-Month,Credit Card,5G,No,No,No,No,,44377.32,1706.82,25-48,Adult,0.0
+C1070,Rahul Singh,Male,60.0,Maharashtra,Mumbai,45.0,Premium,606.69,27490.05,Month-To-Month,Credit Card,Cable,Yes,Yes,Yes,Yes,,27301.050000000003,606.69,25-48,Senior,1.0
+C1071,Neha Verma,Female,50.0,Maharashtra,Mumbai,54.0,Basic,792.34,42902.36,Two Year,Net Banking,DSL,No,No,Yes,No,,42786.36,792.34,49-72,Adult,0.0
+C1072,Priya Gupta,Male,18.0,Maharashtra,Pune,2.0,,1914.24,3962.48,Two Year,UPI,,Yes,No,Yes,Yes,2025-11-03,3828.48,1914.24,0-12,Adult,1.0
+C1073,Rahul Singh,Female,53.0,Delhi,Noida,42.0,Premium,1016.66,42546.72,Month-To-Month,Debit Card,DSL,No,,No,No,,42699.72,1016.66,25-48,Adult,0.0
+C1074,Priya Gupta,Female,50.0,Gujarat,Surat,62.0,Basic,1084.76,67614.12,Two Year,UPI,DSL,Yes,No,No,No,,67255.12,1084.76,49-72,Adult,0.0
+C1076,,Male,61.0,Maharashtra,Pune,66.0,Premium,1782.03,118083.98,Two Year,Cash,5G,No,Yes,No,No,2025-01-12,117613.98,1782.03,49-72,Senior,0.0
+C1077,Pooja Singh,Male,63.0,Karnataka,Mysuru,50.0,Basic,808.04,39950.0,Month-To-Month,Credit Card,DSL,Yes,Yes,No,No,2026-06-06,40402.0,808.04,49-72,Senior,0.0
+C1079,Pooja Singh,Male,54.0,Karnataka,Bengaluru,43.0,Premium,486.43,20870.49,One Year,Credit Card,DSL,Yes,No,No,No,,20916.49,486.43,25-48,Adult,0.0
+C1080,Mohit Arora,Male,34.0,Up,Kanpur,8.0,Standard,1479.85,11944.8,One Year,Net Banking,5G,Yes,No,Yes,No,2025-11-01,11838.8,1479.85,0-12,Adult,0.0
+C1082,Rahul Singh,Female,65.0,Up,Lucknow,52.0,Premium,1360.44,70857.88,Two Year,UPI,Fiber,No,Yes,No,No,,70742.88,1360.44,49-72,Senior,0.0
+C1083,Mohit Arora,Female,22.0,Karnataka,Mysuru,10.0,Premium,875.38,9010.8,Month-To-Month,Net Banking,5G,No,No,No,No,2025-06-06,8753.8,875.38,0-12,Adult,0.0
+C1084,Mohit Arora,Female,49.0,Up,Lucknow,2.0,Standard,751.95,1048.9,Month-To-Month,Credit Card,Fiber,Yes,No,Yes,Yes,2026-04-07,1503.9,751.95,0-12,Adult,1.0
+C1085,Priya Gupta,Male,47.0,Delhi,Delhi,14.0,Premium,2119.36,29976.04,Month-To-Month,Debit Card,Cable,No,No,No,Yes,,29671.04,2119.36,13-24,Adult,1.0
+C1086,Priya Gupta,Female,33.0,Gujarat,Ahmedabad,42.0,Premium,417.27,17157.34,Two Year,Net Banking,Fiber,Yes,No,No,Yes,,17525.34,417.27,25-48,Adult,1.0
+C1087,Rahul Singh,Female,38.0,Gujarat,Surat,10.0,Premium,900.38,8859.8,Month-To-Month,UPI,5G,Yes,No,Yes,No,,9003.8,900.38,0-12,Adult,0.0
+C1088,Amit Sharma,Female,56.0,Gujarat,Surat,46.0,Standard,709.87,33031.02,Month-To-Month,Cash,Fiber,No,No,Yes,No,,32654.02,709.87,25-48,Adult,0.0
+C1089,Mohit Arora,Male,25.0,Gujarat,Ahmedabad,42.0,Standard,1715.32,71947.44,Month-To-Month,Cash,DSL,No,No,No,No,,72043.44,1715.32,25-48,Adult,0.0
+C1090,Neha Verma,Male,70.0,Delhi,Delhi,61.0,Standard,1119.21,68133.81,Month-To-Month,Net Banking,Cable,Yes,Yes,No,No,2025-07-05,68271.81,1119.21,49-72,Senior,0.0
+C1091,Rahul Singh,Female,48.0,Delhi,Noida,64.0,Basic,1543.84,98351.76,Month-To-Month,Net Banking,Fiber,No,No,No,No,,98805.76,1543.84,49-72,Adult,0.0
+C1092,Neha Verma,Female,67.0,Maharashtra,Mumbai,10.0,Standard,509.92,4964.2,One Year,UPI,5G,Yes,Yes,No,No,2026-09-06,5099.2,509.92,0-12,Senior,0.0
+C1093,Amit Sharma,Female,62.0,Karnataka,Bengaluru,41.0,Standard,758.27,30984.07,Two Year,Credit Card,Cable,Yes,Yes,No,No,2025-05-08,31089.07,758.27,25-48,Senior,0.0
+C1095,Sneha Jain,Male,48.0,Maharashtra,Mumbai,4.0,Basic,775.18,2679.72,Month-To-Month,Debit Card,Cable,Yes,No,No,No,,3100.72,775.18,0-12,Adult,0.0
+C1096,Mohit Arora,Male,63.0,Up,Kanpur,67.0,Standard,2353.78,157251.26,One Year,UPI,Cable,No,Yes,No,Yes,,157703.26,2353.78,49-72,Senior,1.0
+C1098,Priya Gupta,Female,18.0,Karnataka,Bengaluru,56.0,Premium,2239.13,125314.28,Two Year,Debit Card,DSL,No,No,Yes,No,,125391.28,2239.13,49-72,Adult,0.0
+C1099,Pooja Singh,Male,20.0,Up,Kanpur,11.0,Standard,2290.44,25458.84,Two Year,Cash,Cable,Yes,No,Yes,No,2025-06-04,25194.84,2290.44,0-12,Adult,0.0
+C1100,Rahul Singh,Female,41.0,Delhi,Delhi,24.0,Basic,371.78,8651.72,One Year,Net Banking,Cable,Yes,No,Yes,No,,8922.72,371.78,13-24,Adult,0.0
+C1101,Pooja Singh,Female,34.0,Up,Lucknow,52.0,Basic,2077.34,108053.68,Two Year,Credit Card,DSL,No,No,No,No,,108021.68000000001,2077.34,49-72,Adult,0.0
+C1102,Pooja Singh,Female,20.0,Delhi,Delhi,25.0,Basic,1807.77,44944.25,Month-To-Month,UPI,DSL,Yes,No,Yes,No,,45194.25,1807.77,25-48,Adult,0.0
+C1103,Priya Gupta,Female,50.0,Maharashtra,Pune,59.0,Basic,2464.82,145842.38,Two Year,Credit Card,Fiber,Yes,No,No,Yes,,145424.38,2464.82,49-72,Adult,1.0
+C1104,Amit Sharma,Male,19.0,Gujarat,Ahmedabad,13.0,Standard,546.27,7475.51,One Year,UPI,Fiber,No,No,No,No,,7101.51,546.27,13-24,Adult,0.0
+C1105,Rahul Singh,Male,26.0,Delhi,Delhi,62.0,Premium,1763.01,109271.62,Month-To-Month,Credit Card,Cable,Yes,No,Yes,No,2025-05-07,109306.62,1763.01,49-72,Adult,0.0
+C1106,Sneha Jain,Male,60.0,Up,Kanpur,54.0,Basic,858.13,45930.02,Month-To-Month,Unknown,Fiber,No,Yes,Yes,No,2025-04-06,46339.02,858.13,49-72,Senior,0.0
+C1107,Amit Sharma,Female,43.0,Delhi,Noida,44.0,Standard,607.01,27040.44,One Year,UPI,Fiber,Yes,No,No,No,,26708.44,607.01,25-48,Adult,0.0
+C1108,Vikas Yadav,Male,70.0,,Ahmedabad,10.0,Standard,314.1,3107.0,Two Year,Debit Card,Fiber,Yes,Yes,No,No,,3141.0,314.1,0-12,Senior,0.0
+C1109,Rohit Kumar,Female,69.0,Maharashtra,Mumbai,17.0,Basic,881.44,14910.48,Two Year,UPI,DSL,No,Yes,No,No,,14984.480000000001,881.44,13-24,Senior,0.0
+C1110,Mohit Arora,Female,31.0,Up,Lucknow,8.0,Basic,2387.6,18668.8,Two Year,Credit Card,DSL,No,No,No,No,,19100.8,2387.6,0-12,Adult,0.0
+C1111,Rohit Kumar,Male,28.0,Up,Kanpur,57.0,Standard,1828.15,104316.55,One Year,UPI,Fiber,No,No,Yes,No,,104204.55,1828.15,49-72,Adult,0.0
+C1112,Rahul Singh,Male,21.0,Up,Kanpur,53.0,Basic,2452.14,129717.42,Month-To-Month,Credit Card,Fiber,Yes,No,Yes,No,,129963.42,2452.14,49-72,Adult,0.0
+C1113,Anjali Mehta,Male,43.0,,Pune,71.0,Standard,2417.73,171429.83,One Year,UPI,DSL,No,No,No,No,,171658.83,2417.73,49-72,Adult,0.0
+C1114,Vikas Yadav,Male,21.0,Delhi,Noida,47.0,Premium,1641.88,77403.36,One Year,UPI,DSL,Yes,No,No,No,,77168.36,1641.88,25-48,Adult,0.0
+C1115,Neha Verma,Female,57.0,Up,Kanpur,7.0,Basic,720.13,4742.91,One Year,Cash,DSL,Yes,No,No,No,2026-03-03,5040.91,720.13,0-12,Adult,0.0
+C1116,Pooja Singh,Female,30.0,Delhi,Noida,42.0,Standard,1936.24,81236.08,Two Year,UPI,DSL,No,No,Yes,Yes,,81322.08,1936.24,25-48,Adult,1.0
+C1118,Priya Gupta,Female,34.0,Gujarat,Ahmedabad,51.0,Standard,1492.43,75871.93,One Year,Debit Card,5G,No,No,No,No,2025-09-06,76113.93000000001,1492.43,49-72,Adult,0.0
+C1119,Rahul Singh,Female,42.0,Delhi,Delhi,6.0,Basic,2286.88,13809.28,One Year,Credit Card,5G,Yes,No,Yes,No,2026-04-05,13721.28,2286.88,0-12,Adult,0.0
+C1120,Neha Verma,Female,33.0,Gujarat,Surat,27.0,Basic,2228.8,60300.6,Month-To-Month,UPI,Fiber,No,No,Yes,Yes,,60177.600000000006,2228.8,25-48,Adult,1.0
+C1121,Rohit Kumar,Male,50.0,Gujarat,Surat,55.0,Basic,338.94,19006.7,Month-To-Month,Credit Card,5G,No,No,Yes,No,2025-03-07,18641.7,338.94,49-72,Adult,0.0
+C1124,Vikas Yadav,Male,57.0,Maharashtra,Pune,21.0,Standard,2362.83,49519.43,Two Year,Credit Card,5G,Yes,No,Yes,No,,49619.43,2362.83,13-24,Adult,0.0
+C1125,Neha Verma,Female,39.0,Up,Lucknow,36.0,Standard,2488.31,89368.16,Month-To-Month,Cash,Fiber,No,No,Yes,No,2026-02-05,89579.16,2488.31,25-48,Adult,0.0
+C1127,Mohit Arora,Female,34.0,Gujarat,Surat,3.0,Premium,1174.29,3875.87,Two Year,UPI,Cable,Yes,No,No,Yes,2026-09-03,3522.87,1174.29,0-12,Adult,1.0
+C1128,Sneha Jain,Male,50.0,Delhi,Noida,26.0,Premium,440.22,11457.72,One Year,Credit Card,Fiber,No,No,Yes,No,,11445.720000000001,440.22,25-48,Adult,0.0
+C1129,Pooja Singh,Female,53.0,Up,Kanpur,49.0,Standard,1433.0,70355.0,Two Year,Debit Card,Cable,No,No,No,No,2025-04-02,70217.0,1433.0,49-72,Adult,0.0
+C1130,Sneha Jain,Male,51.0,Maharashtra,Mumbai,34.0,Premium,1541.67,51966.78,Month-To-Month,Net Banking,5G,Yes,No,No,No,,52416.78,1541.67,25-48,Adult,0.0
+C1131,Neha Verma,Male,58.0,Delhi,Delhi,38.0,Standard,1355.02,51859.76,One Year,Credit Card,Cable,No,No,Yes,No,,51490.76,1355.02,25-48,Adult,0.0
+C1132,Mohit Arora,Male,66.0,Up,Kanpur,23.0,Basic,945.77,21763.71,One Year,Debit Card,Cable,Yes,Yes,Yes,Yes,2025-07-02,21752.71,945.77,13-24,Senior,1.0
+C1133,Priya Gupta,Female,19.0,Gujarat,Ahmedabad,42.0,Standard,2356.4,99074.8,Month-To-Month,Credit Card,5G,No,No,Yes,No,,98968.8,2356.4,25-48,Adult,0.0
+C1134,Sneha Jain,Female,64.0,Maharashtra,Pune,35.0,Premium,2026.24,71142.4,One Year,Net Banking,Cable,Yes,Yes,No,No,2025-01-11,70918.4,2026.24,25-48,Senior,0.0
+C1135,Rohit Kumar,Female,64.0,Gujarat,Ahmedabad,23.0,Basic,496.63,11857.49,Two Year,Debit Card,5G,No,Yes,No,No,,11422.49,496.63,13-24,Senior,0.0
+C1136,Mohit Arora,Female,29.0,Maharashtra,Pune,21.0,Basic,1515.52,32150.92,One Year,UPI,Fiber,No,No,Yes,No,,31825.92,1515.52,13-24,Adult,0.0
+C1137,Priya Gupta,Female,34.0,Maharashtra,Mumbai,40.0,Premium,739.56,29567.4,One Year,UPI,5G,No,No,Yes,No,,29582.399999999998,739.56,25-48,Adult,0.0
+C1138,Pooja Singh,Male,49.0,Up,Lucknow,21.0,Basic,499.96,10024.16,Two Year,Debit Card,Fiber,No,No,No,No,,10499.16,499.96,13-24,Adult,0.0
+C1139,Rahul Singh,Male,33.0,Karnataka,Bengaluru,15.0,Premium,1185.71,17488.65,Two Year,Credit Card,Cable,Yes,No,No,No,,17785.65,1185.71,13-24,Adult,0.0
+C1140,Mohit Arora,Female,45.0,Delhi,Delhi,4.0,Premium,2476.45,9785.8,One Year,Debit Card,DSL,Yes,No,No,No,,9905.8,2476.45,0-12,Adult,0.0
+C1141,Sneha Jain,Female,26.0,Maharashtra,Pune,46.0,Standard,2041.84,93587.64,One Year,UPI,5G,No,No,Yes,Yes,2026-10-01,93924.64,2041.84,25-48,Adult,1.0
+C1143,Amit Sharma,Female,24.0,Gujarat,Surat,27.0,,449.9,12606.3,Two Year,Net Banking,5G,Yes,No,Yes,No,2025-03-06,12147.3,449.9,25-48,Adult,0.0
+C1144,Rahul Singh,Female,47.0,Karnataka,Mysuru,44.0,Premium,751.27,33091.88,Month-To-Month,Credit Card,Cable,Yes,No,No,Yes,2026-10-04,33055.88,751.27,25-48,Adult,1.0
+C1145,Rohit Kumar,Female,42.0,Karnataka,Bengaluru,36.059548254620125,Premium,764.88,33960.6,Month-To-Month,UPI,Cable,Yes,No,Yes,Yes,,27581.22726899384,764.88,25-48,Adult,1.0
+C1146,Sneha Jain,Female,52.0,Karnataka,Mysuru,40.0,Basic,1175.88,47026.2,Two Year,UPI,5G,No,No,Yes,No,,47035.200000000004,1175.88,25-48,Adult,0.0
+C1147,Vikas Yadav,,62.0,Delhi,,42.0,Basic,2492.51,104747.42,Month-To-Month,Net Banking,Fiber,No,Yes,No,No,,104685.42000000001,2492.51,25-48,Senior,0.0
+C1148,Vikas Yadav,Male,59.0,,Bengaluru,47.0,Basic,355.44,17130.68,Two Year,Debit Card,Cable,No,No,Yes,No,,16705.68,355.44,25-48,Adult,0.0
+C1149,Anjali Mehta,Male,65.0,Up,Kanpur,54.0,Basic,882.74,47743.96,Month-To-Month,UPI,DSL,No,Yes,No,No,2025-06-08,47667.96,882.74,49-72,Senior,0.0
+C1150,,Female,18.0,Delhi,Noida,41.0,Premium,1194.17,49448.97,Two Year,Debit Card,DSL,No,No,Yes,No,,48960.97,1194.17,25-48,Adult,0.0
+C1151,Pooja Singh,Male,56.0,Delhi,Noida,1.0,Standard,1143.84,1520.84,Two Year,Debit Card,5G,No,No,No,No,,1143.84,1143.84,0-12,Adult,0.0
+C1152,Pooja Singh,Male,37.0,Maharashtra,Pune,45.0,Standard,698.68,31196.6,Two Year,Debit Card,DSL,No,No,No,No,,31440.6,698.68,25-48,Adult,0.0
+C1153,Anjali Mehta,Male,59.0,Delhi,Noida,37.0,Basic,2460.77,90763.49,Month-To-Month,Debit Card,Fiber,Yes,No,Yes,No,,91048.49,2460.77,25-48,Adult,0.0
+C1154,Pooja Singh,Male,42.0,Karnataka,Bengaluru,30.0,Standard,664.63,20341.9,Two Year,Debit Card,Cable,Yes,No,Yes,No,,19938.9,664.63,25-48,Adult,0.0
+C1155,Rohit Kumar,Male,46.0,Gujarat,Ahmedabad,29.0,Basic,1042.16,30131.64,One Year,Debit Card,5G,No,No,No,Yes,2026-05-06,30222.640000000003,1042.16,25-48,Adult,1.0
+C1156,Mohit Arora,Female,24.0,Up,Kanpur,34.0,Basic,857.72,29539.48,Month-To-Month,Credit Card,Fiber,No,No,Yes,Yes,,29162.48,857.72,25-48,Adult,1.0
+C1157,Anjali Mehta,Male,69.0,Delhi,Delhi,46.0,Standard,1381.26,63868.96,Month-To-Month,UPI,Fiber,No,Yes,No,Yes,,63537.96,1381.26,25-48,Senior,1.0
+C1158,Anjali Mehta,Female,35.0,Karnataka,Bengaluru,48.0,Premium,593.22,27997.56,Month-To-Month,UPI,Cable,Yes,No,Yes,,,28474.56,593.22,25-48,Adult,
+C1159,Pooja Singh,Female,39.0,Karnataka,Bengaluru,20.0,Standard,436.73,8468.6,Month-To-Month,Debit Card,5G,No,No,Yes,No,,8734.6,436.73,13-24,Adult,0.0
+C1161,Pooja Singh,Male,30.0,Gujarat,Ahmedabad,35.0,Basic,1265.5,44319.5,Month-To-Month,Unknown,Fiber,Yes,No,No,No,,44292.5,1265.5,25-48,Adult,0.0
+C1162,Pooja Singh,Male,58.0,Up,Lucknow,72.0,Premium,1632.95,117730.4,Two Year,UPI,DSL,No,No,Yes,Yes,,117572.40000000001,1632.95,49-72,Adult,1.0
+C1163,Neha Verma,Male,66.0,Karnataka,Bengaluru,58.0,Standard,721.63,42088.54,Month-To-Month,Net Banking,Cable,No,Yes,No,No,,41854.54,721.63,49-72,Senior,0.0
+C1164,Rahul Singh,Female,63.0,Maharashtra,Pune,24.0,Standard,2018.76,48810.24,Two Year,Credit Card,Cable,No,Yes,No,No,2026-02-02,48450.24,2018.76,13-24,Senior,0.0
+C1165,Rahul Singh,Male,39.0,Gujarat,Ahmedabad,32.0,Premium,1020.77,32884.64,Month-To-Month,Debit Card,Cable,No,No,Yes,Yes,2025-08-03,32664.64,1020.77,25-48,Adult,1.0
+C1167,Priya Gupta,Male,27.0,Karnataka,Bengaluru,54.0,Basic,795.71,43001.34,Month-To-Month,Cash,Fiber,Yes,No,No,No,2025-06-09,42968.340000000004,795.71,49-72,Adult,0.0
+C1168,Anjali Mehta,Male,30.0,Maharashtra,Mumbai,59.0,Standard,439.4,25696.6,Month-To-Month,UPI,DSL,Yes,No,No,No,,25924.6,439.4,49-72,Adult,0.0
+C1169,Amit Sharma,Female,49.0,Karnataka,Mysuru,42.0,Premium,1986.16,83224.72,Two Year,Net Banking,Cable,Yes,No,No,No,2026-02-01,83418.72,1986.16,25-48,Adult,0.0
+C1170,Anjali Mehta,Male,43.0,Gujarat,Ahmedabad,37.0,Premium,1872.61,69180.57,Two Year,UPI,DSL,No,No,Yes,No,,69286.56999999999,1872.61,25-48,Adult,0.0
+C1171,Rahul Singh,Female,25.0,Delhi,Delhi,7.0,Standard,1765.41,11999.87,Month-To-Month,Net Banking,Fiber,Yes,No,Yes,No,2025-06-12,12357.87,1765.41,0-12,Adult,0.0
+C1172,Sneha Jain,Male,50.0,Delhi,Noida,48.0,Premium,2254.56,107969.88,Month-To-Month,Credit Card,Cable,No,No,Yes,Yes,2026-03-05,108218.88,2254.56,25-48,Adult,1.0
+C1174,Sneha Jain,Male,21.0,Gujarat,Ahmedabad,23.0,Basic,1061.75,24827.25,Month-To-Month,Credit Card,DSL,No,No,Yes,No,,24420.25,1061.75,13-24,Adult,0.0
+C1175,Pooja Singh,Female,33.0,Delhi,Delhi,51.0,Basic,2411.72,123409.72,One Year,Net Banking,DSL,Yes,No,No,No,2025-04-08,122997.71999999999,2411.72,49-72,Adult,0.0
+C1176,,Female,20.0,Maharashtra,Pune,48.0,Premium,977.53,46708.44,Two Year,UPI,Cable,Yes,No,Yes,Yes,,46921.44,977.53,25-48,Adult,1.0
+C1177,Pooja Singh,Male,53.0,,Ahmedabad,23.0,Basic,519.2,11447.6,Month-To-Month,Cash,Cable,Yes,No,No,No,2026-09-03,11941.6,519.2,13-24,Adult,0.0
+C1179,Vikas Yadav,Female,56.0,Up,Lucknow,1.0,,1671.92,2065.92,One Year,Cash,DSL,No,No,No,No,,1671.92,1671.92,0-12,Adult,0.0
+C1180,Amit Sharma,Female,59.0,Up,Lucknow,30.0,Premium,2311.69,69325.7,One Year,UPI,Cable,No,No,No,No,2025-03-06,69350.7,2311.69,25-48,Adult,0.0
+C1181,Sneha Jain,Male,69.0,Maharashtra,Pune,56.0,Standard,1473.25,82764.0,Month-To-Month,Debit Card,Cable,No,Yes,Yes,Yes,,82502.0,1473.25,49-72,Senior,1.0
+C1182,Rahul Singh,Male,49.0,Karnataka,Bengaluru,24.0,Premium,1193.98,28829.52,Two Year,Cash,5G,Yes,No,No,No,,28655.52,1193.98,13-24,Adult,0.0
+C1183,Vikas Yadav,Male,29.0,Maharashtra,Mumbai,70.0,Premium,1389.4,97114.0,Month-To-Month,Debit Card,Fiber,Yes,No,No,No,,97258.0,1389.4,49-72,Adult,0.0
+C1184,Rohit Kumar,Female,23.0,Gujarat,Surat,69.0,Basic,733.92,51040.48,Two Year,Credit Card,5G,Yes,No,Yes,No,,50640.479999999996,733.92,49-72,Adult,0.0
+C1185,Mohit Arora,Female,57.0,Karnataka,Bengaluru,21.0,Standard,1688.97,35033.37,One Year,Net Banking,DSL,Yes,No,No,No,,35468.37,1688.97,13-24,Adult,0.0
+C1186,Priya Gupta,Male,53.0,Gujarat,Ahmedabad,24.0,Premium,1476.3,35276.2,One Year,Net Banking,DSL,Yes,No,No,No,2026-10-03,35431.2,1476.3,13-24,Adult,0.0
+C1187,Neha Verma,Female,51.0,Delhi,Noida,22.0,Premium,943.13,20403.86,One Year,Net Banking,Fiber,Yes,No,No,Yes,,20748.86,943.13,13-24,Adult,1.0
+C1188,Mohit Arora,Female,20.0,Gujarat,Surat,56.0,Basic,1084.04,60393.24,One Year,Cash,5G,No,No,Yes,No,,60706.24,1084.04,49-72,Adult,0.0
+C1189,Rahul Singh,Male,49.0,Gujarat,Ahmedabad,39.0,Standard,1589.45,62208.55,One Year,UPI,DSL,Yes,No,Yes,No,2025-07-05,61988.55,1589.45,25-48,Adult,0.0
+C1190,Priya Gupta,Female,48.0,Delhi,Delhi,62.0,Premium,384.58,23458.96,Two Year,Debit Card,Fiber,No,No,Yes,No,2025-11-05,23843.96,384.58,49-72,Adult,0.0
+C1191,Mohit Arora,Female,55.0,Gujarat,Surat,64.0,Premium,2219.21,142482.44,Two Year,Credit Card,DSL,Yes,No,Yes,No,,142029.44,2219.21,49-72,Adult,0.0
+C1192,Rohit Kumar,Male,25.0,Delhi,Noida,17.0,Standard,1398.57,23438.69,Month-To-Month,Cash,Fiber,No,No,Yes,No,,23775.69,1398.57,13-24,Adult,0.0
+C1193,Mohit Arora,Female,51.0,Maharashtra,Pune,47.0,Premium,1241.12,58616.64,One Year,Debit Card,Cable,No,No,No,No,,58332.63999999999,1241.12,25-48,Adult,0.0
+C1194,Sneha Jain,Female,23.0,Maharashtra,Mumbai,59.0,Premium,1547.26,91630.34,Month-To-Month,Debit Card,5G,No,No,Yes,No,2025-08-07,91288.34,1547.26,49-72,Adult,0.0
+C1195,Vikas Yadav,Male,35.0,Gujarat,Surat,30.0,Standard,609.66,18497.8,One Year,Cash,Cable,No,No,Yes,No,,18289.8,609.66,25-48,Adult,0.0
+C1196,Rohit Kumar,Female,69.0,Karnataka,Mysuru,36.0,Standard,1605.82,57766.52,Month-To-Month,Debit Card,5G,No,Yes,Yes,No,2025-06-10,57809.52,1605.82,25-48,Senior,0.0
+C1197,Priya Gupta,Male,50.0,Gujarat,Ahmedabad,56.0,Standard,591.37,32790.72,Month-To-Month,Credit Card,Cable,No,No,No,Yes,,33116.72,591.37,49-72,Adult,1.0
+C1198,Priya Gupta,Female,57.0,Gujarat,Ahmedabad,45.0,Basic,1420.84,63677.8,Month-To-Month,UPI,Cable,Yes,No,Yes,No,2025-02-03,63937.799999999996,1420.84,25-48,Adult,0.0
+C1199,Anjali Mehta,Female,30.0,Gujarat,Ahmedabad,40.0,Basic,1372.89,54620.6,One Year,Net Banking,Fiber,No,No,Yes,No,,54915.600000000006,1372.89,25-48,Adult,0.0
+C1200,Mohit Arora,Male,34.0,Delhi,Delhi,20.0,Standard,423.54,8422.8,One Year,Cash,5G,No,No,Yes,Yes,,8470.800000000001,423.54,13-24,Adult,1.0
+C1201,Priya Gupta,Female,44.0,Up,Kanpur,23.0,Basic,578.13,13113.99,One Year,Credit Card,5G,Yes,No,Yes,Yes,2025-04-02,13296.99,578.13,13-24,Adult,1.0
+C1203,Sneha Jain,Female,59.0,Gujarat,Surat,19.0,Standard,559.32,10963.08,Two Year,Debit Card,5G,Yes,No,No,No,2025-02-11,10627.080000000002,559.32,13-24,Adult,0.0
+C1204,Anjali Mehta,Male,20.0,Up,Lucknow,19.0,Premium,974.22,18902.18,One Year,Net Banking,Fiber,Yes,No,No,No,2025-07-09,18510.18,974.22,13-24,Adult,0.0
+C1205,Mohit Arora,Male,19.0,Up,Kanpur,44.0,Premium,2228.44,98528.36,One Year,Cash,Cable,No,No,Yes,Yes,2025-10-08,98051.36,2228.44,25-48,Adult,1.0
+C1206,Rohit Kumar,Male,56.0,Gujarat,Surat,27.0,Basic,1175.59,31825.93,Two Year,Net Banking,5G,No,No,No,No,2026-02-05,31740.929999999997,1175.59,25-48,Adult,0.0
+C1207,Anjali Mehta,Male,41.0,Gujarat,Surat,39.0,Basic,964.53,37881.67,Two Year,UPI,Fiber,Yes,No,Yes,No,2026-04-04,37616.67,964.53,25-48,Adult,0.0
+C1208,Pooja Singh,Female,41.0,Karnataka,Bengaluru,41.0,Standard,2357.51,97101.91,Month-To-Month,Net Banking,5G,No,No,No,Yes,,96657.91,2357.51,25-48,Adult,1.0
+C1209,Priya Gupta,Female,30.0,Karnataka,Mysuru,19.0,Standard,1169.65,21999.35,One Year,UPI,DSL,Yes,No,No,Yes,,22223.350000000002,1169.65,13-24,Adult,1.0
+C1210,Mohit Arora,Male,69.0,Up,Lucknow,18.0,Basic,1567.32,28488.76,Two Year,Net Banking,Fiber,Yes,Yes,No,No,,28211.76,1567.32,13-24,Senior,0.0
+C1211,Rahul Singh,Male,69.0,Up,Lucknow,16.0,Standard,2491.35,39646.6,Two Year,Debit Card,DSL,Yes,Yes,Yes,No,,39861.6,2491.35,13-24,Senior,0.0
+C1212,Mohit Arora,Male,55.0,Karnataka,Bengaluru,34.0,Basic,902.52,30948.68,Month-To-Month,Net Banking,DSL,Yes,No,No,No,,30685.68,902.52,25-48,Adult,0.0
+C1213,Anjali Mehta,Male,59.0,Karnataka,Bengaluru,24.0,Premium,1775.86,42847.64,Month-To-Month,Debit Card,DSL,No,No,No,No,,42620.64,1775.86,13-24,Adult,0.0
+C1214,Neha Verma,Male,46.0,Delhi,Delhi,33.0,Premium,1273.85,42069.05,Two Year,Debit Card,DSL,Yes,No,No,No,,42037.049999999996,1273.85,25-48,Adult,0.0
+C1215,Anjali Mehta,Male,39.0,Maharashtra,Pune,53.0,Basic,1444.62,76320.86,One Year,Cash,Cable,Yes,No,Yes,No,2025-02-06,76564.86,1444.62,49-72,Adult,0.0
+C1216,Neha Verma,Male,27.0,Gujarat,Surat,16.0,Standard,876.5,14365.0,One Year,Net Banking,5G,No,No,Yes,No,2025-11-05,14024.0,876.5,13-24,Adult,0.0
+C1218,Priya Gupta,Male,18.0,Up,Lucknow,1.0,Basic,1666.22,1714.22,One Year,Net Banking,Fiber,Yes,No,Yes,No,,1666.22,1666.22,0-12,Adult,0.0
+C1219,Mohit Arora,Male,49.0,Gujarat,Surat,25.0,Standard,302.54,7495.5,One Year,UPI,DSL,No,No,No,No,,7563.500000000001,302.54,25-48,Adult,0.0
+C1220,Rohit Kumar,Male,20.0,Up,Lucknow,39.0,Basic,1209.4,46675.6,One Year,UPI,Cable,No,No,Yes,Yes,2025-10-06,47166.600000000006,1209.4,25-48,Adult,1.0
+C1222,Mohit Arora,Female,62.0,Gujarat,Ahmedabad,45.0,Premium,724.06,32641.7,One Year,Cash,Fiber,Yes,Yes,Yes,No,,32582.699999999997,724.06,25-48,Senior,0.0
+C1223,Rohit Kumar,Male,40.0,Maharashtra,Pune,62.0,Standard,1841.53,113908.86,One Year,Cash,DSL,No,No,Yes,No,2025-10-01,114174.86,1841.53,49-72,Adult,0.0
+C1224,Mohit Arora,Male,25.0,Karnataka,Mysuru,3.0,Premium,888.06,2923.18,One Year,Debit Card,5G,Yes,No,No,Yes,,2664.18,888.06,0-12,Adult,1.0
+C1225,Pooja Singh,Female,25.0,Gujarat,Surat,52.0,Standard,2062.25,107393.0,Month-To-Month,Net Banking,5G,No,No,Yes,No,,107237.0,2062.25,49-72,Adult,0.0
+C1226,Sneha Jain,Female,35.0,Karnataka,Bengaluru,9.0,Basic,2071.81,18770.29,Month-To-Month,UPI,DSL,No,No,Yes,Yes,,18646.29,2071.81,0-12,Adult,1.0
+C1227,Pooja Singh,Female,54.0,Karnataka,Bengaluru,67.0,Basic,1999.9,133851.3,Two Year,UPI,Fiber,Yes,No,No,No,,133993.30000000002,1999.9,49-72,Adult,0.0
+C1228,Anjali Mehta,Female,66.0,Karnataka,Mysuru,66.0,Standard,823.42,54227.72,One Year,Cash,DSL,No,Yes,Yes,No,,54345.719999999994,823.42,49-72,Senior,0.0
+C1229,Amit Sharma,Female,24.0,Delhi,Delhi,68.0,Premium,2057.82,139600.76,Month-To-Month,UPI,Fiber,No,No,Yes,No,,139931.76,2057.82,49-72,Adult,0.0
+C1230,Neha Verma,Male,21.0,Delhi,Noida,43.0,Basic,1545.34,66910.62,Two Year,Cash,Fiber,No,No,No,No,,66449.62,1545.34,25-48,Adult,0.0
+C1231,Sneha Jain,Male,54.0,Delhi,Delhi,9.0,Premium,485.05,4607.45,Two Year,UPI,5G,No,No,Yes,Yes,2026-06-04,4365.45,485.05,0-12,Adult,1.0
+C1232,Rahul Singh,,46.0,Gujarat,Ahmedabad,60.0,Premium,389.88,23043.8,One Year,Net Banking,Cable,No,No,Yes,No,,23392.8,389.88,49-72,Adult,0.0
+C1233,Sneha Jain,Male,52.0,Maharashtra,Mumbai,6.0,Premium,1731.3,10284.8,Month-To-Month,Debit Card,Fiber,Yes,No,No,No,2026-04-06,10387.8,1731.3,0-12,Adult,0.0
+C1234,Rahul Singh,Male,23.0,Delhi,Noida,70.0,Premium,1355.07,95082.9,One Year,UPI,Cable,No,No,Yes,No,2025-03-09,94854.9,1355.07,49-72,Adult,0.0
+C1235,Rahul Singh,Male,28.0,Maharashtra,Pune,18.0,Premium,1869.36,33356.48,Two Year,Cash,DSL,Yes,No,Yes,No,,33648.479999999996,1869.36,13-24,Adult,0.0
+C1236,Rahul Singh,Female,67.0,Karnataka,Bengaluru,67.0,Basic,2057.13,137691.71,One Year,Cash,5G,Yes,Yes,Yes,No,,137827.71000000002,2057.13,49-72,Senior,0.0
+C1237,Rahul Singh,Male,33.0,Up,Lucknow,37.0,Premium,1481.37,55080.69,Month-To-Month,Unknown,Cable,No,No,Yes,Yes,,54810.689999999995,1481.37,25-48,Adult,1.0
+C1238,Mohit Arora,Female,60.0,Maharashtra,Pune,53.0,,1022.84,53890.52,One Year,UPI,Cable,Yes,Yes,No,No,2026-09-03,54210.520000000004,1022.84,49-72,Senior,0.0
+C1239,Amit Sharma,Female,41.0,Up,Kanpur,72.0,Standard,838.85,60109.2,One Year,Debit Card,Fiber,Yes,No,No,No,,60397.200000000004,838.85,49-72,Adult,0.0
+C1240,Rahul Singh,Female,51.0,Gujarat,Surat,64.0,Basic,2462.83,157703.12,Two Year,Cash,Fiber,No,No,Yes,No,,157621.12,2462.83,49-72,Adult,0.0
+C1241,Anjali Mehta,Male,42.0,Maharashtra,Pune,12.0,Premium,843.02,10324.24,One Year,UPI,5G,No,No,No,No,,10116.24,843.02,0-12,Adult,0.0
+C1242,Pooja Singh,Male,25.0,Maharashtra,Pune,43.0,Standard,2177.63,93615.09,One Year,Credit Card,5G,No,No,Yes,No,2025-08-09,93638.09000000001,2177.63,25-48,Adult,0.0
+C1243,Mohit Arora,Male,46.0,Karnataka,Mysuru,49.0,Premium,540.86,26799.14,Month-To-Month,UPI,DSL,Yes,No,Yes,Yes,,26502.14,540.86,49-72,Adult,1.0
+C1244,Mohit Arora,Male,28.0,Up,Kanpur,57.0,Basic,742.71,42470.47,Month-To-Month,Debit Card,Cable,Yes,No,Yes,No,2025-04-01,42334.47,742.71,49-72,Adult,0.0
+C1245,Priya Gupta,Male,69.0,Maharashtra,Pune,66.0,Standard,990.01,65810.66,Two Year,Cash,Fiber,Yes,Yes,No,Yes,,65340.659999999996,990.01,49-72,Senior,1.0
+C1246,Priya Gupta,Female,18.0,Karnataka,Mysuru,67.0,Basic,2458.79,164961.93,One Year,Cash,5G,Yes,No,No,No,2026-10-04,164738.93,2458.79,49-72,Adult,0.0
+C1247,Sneha Jain,Female,28.0,Up,Lucknow,26.0,Premium,1471.57,38366.82,Month-To-Month,Debit Card,DSL,No,No,Yes,No,2025-03-09,38260.82,1471.57,25-48,Adult,0.0
+C1248,Rohit Kumar,Male,37.0,Karnataka,Bengaluru,14.0,Basic,1662.07,23179.98,One Year,Debit Card,DSL,No,No,No,No,,23268.98,1662.07,13-24,Adult,0.0
+C1250,Sneha Jain,Female,20.0,Delhi,Delhi,35.0,Premium,1286.2,44768.0,Month-To-Month,UPI,Fiber,Yes,No,Yes,No,2025-10-06,45017.0,1286.2,25-48,Adult,0.0
+C1251,Vikas Yadav,Male,58.0,Gujarat,Ahmedabad,57.0,Premium,1019.36,57630.52,Two Year,Cash,5G,Yes,No,No,No,2025-07-06,58103.520000000004,1019.36,49-72,Adult,0.0
+C1252,Mohit Arora,Male,46.0,Karnataka,Bengaluru,58.0,Basic,1633.3,94512.4,,Debit Card,,No,,Yes,No,2026-01-02,94731.4,1633.3,49-72,Adult,0.0
+C1253,Rahul Singh,Male,28.0,Gujarat,Ahmedabad,56.0,Premium,2049.47,114695.32,Month-To-Month,Net Banking,Cable,No,No,No,No,,114770.31999999999,2049.47,49-72,Adult,0.0
+C1254,Pooja Singh,Female,51.0,Up,Kanpur,16.0,Basic,1640.67,26642.72,Month-To-Month,Net Banking,Fiber,Yes,,Yes,No,,26250.72,1640.67,13-24,Adult,0.0
+C1255,Mohit Arora,Female,69.0,Gujarat,Surat,25.0,Standard,1853.75,46836.75,Two Year,Credit Card,5G,No,Yes,No,No,,46343.75,1853.75,25-48,Senior,0.0
+C1256,Amit Sharma,Male,68.0,Gujarat,Surat,63.0,Basic,904.32,57275.16,Month-To-Month,UPI,5G,Yes,Yes,No,No,,56972.16,904.32,49-72,Senior,0.0
+C1257,Neha Verma,Female,33.0,Maharashtra,Mumbai,36.059548254620125,Standard,1109.95,33390.5,Two Year,UPI,Fiber,Yes,No,Yes,No,,40024.29558521561,1109.95,25-48,Adult,0.0
+C1258,Rahul Singh,Female,50.0,Karnataka,Mysuru,25.0,Premium,446.83,11517.75,Two Year,Cash,Fiber,Yes,No,No,Yes,,11170.75,446.83,25-48,Adult,1.0
+C1259,Neha Verma,Male,28.0,Maharashtra,Pune,17.0,Standard,2218.66,38185.22,Two Year,Credit Card,DSL,No,No,Yes,No,2025-01-09,37717.22,2218.66,13-24,Adult,0.0
+C1260,Rohit Kumar,Female,67.0,Maharashtra,Pune,5.0,Standard,1016.06,5426.3,One Year,UPI,DSL,No,Yes,Yes,No,,5080.299999999999,1016.06,0-12,Senior,0.0
+C1261,Mohit Arora,Female,37.0,Delhi,Noida,70.0,Basic,2188.4,153345.0,Two Year,Cash,Fiber,Yes,No,No,No,,153188.0,2188.4,49-72,Adult,0.0
+C1262,Rahul Singh,Female,30.0,Up,Lucknow,25.0,Standard,2056.52,51541.0,Two Year,Net Banking,5G,No,No,No,No,2025-01-01,51413.0,2056.52,25-48,Adult,0.0
+C1264,Vikas Yadav,Male,18.0,Gujarat,Ahmedabad,61.0,Standard,2350.64,143547.04,Month-To-Month,Debit Card,Cable,Yes,No,No,Yes,,143389.03999999998,2350.64,49-72,Adult,1.0
+C1265,Rohit Kumar,Male,41.0,Delhi,Delhi,26.0,Premium,1800.21,47162.46,Month-To-Month,UPI,Cable,No,No,Yes,No,2025-10-12,46805.46,1800.21,25-48,Adult,0.0
+C1266,Pooja Singh,Male,40.0,Maharashtra,Mumbai,15.0,Standard,2406.7,36033.5,One Year,Credit Card,5G,Yes,No,No,No,,36100.5,2406.7,13-24,Adult,0.0
+C1267,Vikas Yadav,Male,53.0,Up,Lucknow,41.0,Premium,606.15,25271.15,One Year,Debit Card,Cable,No,No,No,No,2025-01-09,24852.149999999998,606.15,25-48,Adult,0.0
+C1268,Sneha Jain,Female,38.0,Maharashtra,Pune,61.0,Premium,1154.04,70878.44,One Year,UPI,DSL,Yes,No,No,No,,70396.44,1154.04,49-72,Adult,0.0
+C1269,Mohit Arora,Female,29.0,Maharashtra,Pune,18.0,Basic,517.88,8911.84,Month-To-Month,UPI,Cable,No,No,Yes,Yes,2025-08-08,9321.84,517.88,13-24,Adult,1.0
+C1270,Neha Verma,Male,46.0,Gujarat,Surat,5.0,Standard,2162.89,10716.45,One Year,Debit Card,5G,Yes,No,Yes,No,,10814.449999999999,2162.89,0-12,Adult,0.0
+C1271,Neha Verma,Female,60.0,Gujarat,Ahmedabad,34.0,Standard,1456.83,49942.22,Two Year,UPI,Cable,No,Yes,Yes,No,2025-04-03,49532.22,1456.83,25-48,Senior,0.0
+C1272,Sneha Jain,Male,39.0,Up,Kanpur,70.0,Standard,859.43,59798.1,One Year,UPI,,No,No,No,No,,60160.1,859.43,49-72,Adult,0.0
+C1273,Anjali Mehta,Male,20.0,Karnataka,Bengaluru,29.0,Standard,418.07,11831.03,Two Year,Debit Card,5G,No,No,No,No,,12124.03,418.07,25-48,Adult,0.0
+C1274,Amit Sharma,Male,25.0,Maharashtra,Mumbai,36.059548254620125,Basic,2374.54,127755.16,One Year,Debit Card,Cable,Yes,No,Yes,Yes,,85624.83971252567,2374.54,25-48,Adult,1.0
+C1275,Vikas Yadav,Female,18.0,Gujarat,Surat,28.0,Premium,1087.28,30270.84,Two Year,UPI,DSL,Yes,No,No,Yes,2025-03-01,30443.84,1087.28,25-48,Adult,1.0
+C1276,Anjali Mehta,Male,66.0,Gujarat,Ahmedabad,1.0,Premium,2194.17,1831.17,Month-To-Month,Cash,5G,Yes,Yes,No,No,,2194.17,2194.17,0-12,Senior,0.0
+C1277,Rahul Singh,Male,20.0,Maharashtra,Pune,69.0,Standard,1179.94,81134.86,One Year,Debit Card,DSL,No,No,No,No,,81415.86,1179.94,49-72,Adult,0.0
+C1278,Mohit Arora,Male,26.0,Delhi,Noida,48.0,Premium,1003.9,47915.2,One Year,Credit Card,DSL,No,No,Yes,No,,48187.2,1003.9,25-48,Adult,0.0
+C1279,Rahul Singh,Female,45.0,Up,Kanpur,68.0,Premium,756.57,51696.76,One Year,Net Banking,DSL,No,No,No,No,,51446.76,756.57,49-72,Adult,0.0
+C1280,Sneha Jain,Female,66.0,Up,Lucknow,5.0,Basic,379.9,1526.5,One Year,Cash,DSL,No,Yes,No,No,,1899.5,379.9,0-12,Senior,0.0
+C1281,Sneha Jain,Female,50.0,Karnataka,Bengaluru,44.0,Basic,1996.06,87592.64,Two Year,Cash,Fiber,No,No,No,No,2025-11-03,87826.64,1996.06,25-48,Adult,0.0
+C1282,Mohit Arora,Female,30.0,Delhi,Noida,36.0,Basic,2312.01,83596.36,Month-To-Month,Unknown,DSL,No,No,No,No,2025-11-04,83232.36000000002,2312.01,25-48,Adult,0.0
+C1283,Vikas Yadav,Male,70.0,Maharashtra,Pune,59.0,Basic,415.54,24801.86,Two Year,UPI,5G,Yes,Yes,Yes,No,2025-09-11,24516.86,415.54,49-72,Senior,0.0
+C1284,Mohit Arora,Female,25.0,Karnataka,Mysuru,13.0,Basic,481.35,6547.55,Month-To-Month,Credit Card,Fiber,No,No,Yes,No,2026-10-03,6257.55,481.35,13-24,Adult,0.0
+C1285,Rahul Singh,Female,31.0,Maharashtra,Mumbai,59.0,Basic,1520.75,89536.25,Month-To-Month,Net Banking,Fiber,No,No,Yes,No,2025-01-07,89724.25,1520.75,49-72,Adult,0.0
+C1286,Vikas Yadav,Female,50.0,Karnataka,Bengaluru,17.0,Basic,792.33,13944.61,Two Year,UPI,DSL,No,No,No,No,,13469.61,792.33,13-24,Adult,0.0
+C1287,Rohit Kumar,Female,53.0,Up,Kanpur,27.0,Premium,800.87,21715.49,Two Year,Credit Card,5G,No,No,Yes,Yes,,21623.49,800.87,25-48,Adult,1.0
+C1288,Pooja Singh,Female,45.0,Maharashtra,Mumbai,46.0,Standard,1310.22,60219.12,Two Year,Debit Card,DSL,Yes,No,Yes,Yes,2026-08-04,60270.12,1310.22,25-48,Adult,1.0
+C1289,Pooja Singh,Female,59.0,Delhi,Noida,30.0,Basic,2415.77,72437.1,Two Year,Credit Card,Fiber,No,No,Yes,Yes,,72473.1,2415.77,25-48,Adult,1.0
+C1290,Neha Verma,Female,57.0,Maharashtra,Mumbai,46.0,Premium,2222.91,102602.86,One Year,Net Banking,5G,No,No,No,Yes,2025-01-02,102253.85999999999,2222.91,25-48,Adult,1.0
+C1291,Vikas Yadav,Male,51.0,Up,Lucknow,35.0,Premium,2078.5,72661.5,Two Year,UPI,Cable,Yes,No,Yes,No,2025-04-04,72747.5,2078.5,25-48,Adult,0.0
+C1292,Sneha Jain,Female,37.0,Karnataka,Bengaluru,34.0,Premium,327.44,11360.96,Month-To-Month,Cash,Fiber,No,No,No,No,2026-12-03,11132.96,327.44,25-48,Adult,0.0
+C1293,Priya Gupta,Female,22.0,Gujarat,Ahmedabad,40.0,Standard,1821.94,73069.6,Month-To-Month,Credit Card,Cable,No,No,Yes,No,2026-10-05,72877.6,1821.94,25-48,Adult,0.0
+C1294,Neha Verma,Female,35.0,Gujarat,Surat,18.0,Premium,1628.77,29015.86,Month-To-Month,Credit Card,Cable,No,No,No,No,,29317.86,1628.77,13-24,Adult,0.0
+C1295,Mohit Arora,Female,31.0,Gujarat,Surat,24.0,Premium,1184.33,28546.92,Two Year,Net Banking,5G,Yes,No,Yes,Yes,,28423.92,1184.33,13-24,Adult,1.0
+C1296,Priya Gupta,Female,55.0,Gujarat,Surat,21.0,Standard,1416.5,30024.5,Month-To-Month,Cash,DSL,Yes,No,No,No,,29746.5,1416.5,13-24,Adult,0.0
+C1297,Amit Sharma,Male,49.0,Gujarat,Ahmedabad,20.0,Standard,459.24,9195.8,Month-To-Month,Net Banking,Cable,No,No,No,Yes,,9184.8,459.24,13-24,Adult,1.0
+C1298,Rohit Kumar,Male,36.0,Delhi,Delhi,70.0,Basic,1964.1,137400.0,Month-To-Month,Cash,Cable,No,No,Yes,No,,137487.0,1964.1,49-72,Adult,0.0
+C1299,Mohit Arora,Male,35.0,Karnataka,Bengaluru,3.0,Basic,439.05,1276.15,One Year,Net Banking,Cable,Yes,No,Yes,No,,1317.15,439.05,0-12,Adult,0.0
+C1300,Sneha Jain,Female,63.0,Delhi,Delhi,42.0,Premium,538.26,22596.92,One Year,UPI,5G,No,Yes,No,Yes,2025-03-10,22606.92,538.26,25-48,Senior,1.0
+C1301,Pooja Singh,Female,27.0,Karnataka,Bengaluru,26.0,Standard,312.28,8608.28,Month-To-Month,Net Banking,5G,No,No,Yes,No,2026-10-04,8119.279999999999,312.28,25-48,Adult,0.0
+C1302,Sneha Jain,Female,68.0,Karnataka,Mysuru,38.0,Premium,2045.69,77420.22,One Year,Debit Card,DSL,No,Yes,No,Yes,,77736.22,2045.69,25-48,Senior,1.0
+C1303,Anjali Mehta,Male,43.0,Delhi,Noida,30.0,Standard,1836.72,55417.6,One Year,Credit Card,DSL,No,No,No,Yes,2026-03-01,55101.6,1836.72,25-48,Adult,1.0
+C1304,Anjali Mehta,Male,65.0,Up,Lucknow,72.0,Standard,1880.09,135088.48,Two Year,Debit Card,DSL,Yes,Yes,Yes,Yes,2026-01-01,135366.47999999998,1880.09,49-72,Senior,1.0
+C1305,Pooja Singh,Male,66.0,Delhi,Noida,20.0,Standard,573.59,11030.8,Two Year,Net Banking,Cable,Yes,Yes,Yes,Yes,2025-06-05,11471.800000000001,573.59,13-24,Senior,1.0
+C1307,Mohit Arora,Male,21.0,Karnataka,Mysuru,53.0,Basic,1556.42,82051.26,One Year,Debit Card,5G,No,No,Yes,No,,82490.26000000001,1556.42,49-72,Adult,0.0
+C1309,Pooja Singh,Female,56.0,Maharashtra,Mumbai,32.0,Standard,1688.42,53845.44,Two Year,Cash,Cable,No,No,Yes,No,2026-11-01,54029.44,1688.42,25-48,Adult,0.0
+C1310,Amit Sharma,Female,51.0,Up,Lucknow,17.0,Premium,2488.2,42744.4,Month-To-Month,Cash,Fiber,No,No,Yes,No,,42299.399999999994,2488.2,13-24,Adult,0.0
+C1311,Neha Verma,Male,49.0,Karnataka,Bengaluru,21.0,Premium,1577.78,32955.38,One Year,UPI,Cable,No,No,Yes,No,,33133.38,1577.78,13-24,Adult,0.0
+C1312,Mohit Arora,Female,46.0,Delhi,Delhi,18.0,Standard,439.05,8292.9,One Year,Cash,DSL,Yes,No,No,Yes,,7902.900000000001,439.05,13-24,Adult,1.0
+C1313,Rahul Singh,Female,47.0,Up,Kanpur,46.0,Premium,983.4,45532.4,One Year,Net Banking,5G,No,No,No,No,,45236.4,983.4,25-48,Adult,0.0
+C1314,Priya Gupta,Male,54.0,Up,Lucknow,14.0,Premium,2236.72,31485.08,One Year,Debit Card,5G,Yes,No,Yes,No,,31314.079999999998,2236.72,13-24,Adult,0.0
+C1315,Sneha Jain,Male,37.0,Karnataka,Mysuru,32.0,Premium,1289.21,40787.72,One Year,Cash,DSL,No,No,No,No,,41254.72,1289.21,25-48,Adult,0.0
+C1316,Neha Verma,Male,43.0,Gujarat,Ahmedabad,66.0,Premium,1900.65,125617.9,One Year,Net Banking,DSL,Yes,No,Yes,No,2026-09-03,125442.90000000001,1900.65,49-72,Adult,0.0
+C1317,Amit Sharma,Male,65.0,Up,Lucknow,46.0,Basic,1267.28,57898.88,Month-To-Month,Cash,5G,Yes,Yes,Yes,No,2026-10-01,58294.88,1267.28,25-48,Senior,0.0
+C1318,Mohit Arora,Male,28.0,Maharashtra,Mumbai,31.0,Standard,2129.18,65855.58,Two Year,Net Banking,DSL,Yes,No,Yes,Yes,2025-12-11,66004.58,2129.18,25-48,Adult,1.0
+C1319,Amit Sharma,Female,33.0,Karnataka,Mysuru,25.0,Premium,765.33,18866.25,One Year,Debit Card,Fiber,No,No,Yes,Yes,,19133.25,765.33,25-48,Adult,1.0
+C1320,Amit Sharma,Male,62.0,Karnataka,Bengaluru,40.0,Basic,1293.18,51840.2,One Year,Net Banking,DSL,Yes,Yes,Yes,No,,51727.200000000004,1293.18,25-48,Senior,0.0
+C1321,Pooja Singh,Male,35.0,Karnataka,Mysuru,3.0,Premium,1598.55,5158.65,Month-To-Month,UPI,DSL,Yes,No,Yes,No,2026-03-02,4795.65,1598.55,0-12,Adult,0.0
+C1322,Neha Verma,Female,20.0,Gujarat,Ahmedabad,42.0,Standard,1121.14,47089.88,Month-To-Month,Net Banking,5G,No,No,Yes,Yes,,47087.880000000005,1121.14,25-48,Adult,1.0
+C1323,Amit Sharma,Female,61.0,Up,Kanpur,71.0,Standard,1306.8,93044.8,Month-To-Month,Credit Card,5G,No,Yes,Yes,No,,92782.8,1306.8,49-72,Senior,0.0
+C1324,Priya Gupta,Female,22.0,Maharashtra,Mumbai,14.0,Premium,1813.33,25840.62,Two Year,Credit Card,5G,No,No,No,No,2025-02-12,25386.62,1813.33,13-24,Adult,0.0
+C1325,Pooja Singh,Female,56.0,Up,Lucknow,55.0,Premium,2018.97,110813.35,Month-To-Month,Credit Card,Cable,Yes,No,Yes,Yes,,111043.35,2018.97,49-72,Adult,1.0
+C1326,Priya Gupta,Female,56.0,Gujarat,Surat,39.0,Basic,622.32,23921.48,One Year,Credit Card,Fiber,Yes,No,Yes,Yes,,24270.480000000003,622.32,25-48,Adult,1.0
+C1327,Rahul Singh,Female,24.0,Gujarat,Ahmedabad,1.0,Basic,1639.61,2088.61,Two Year,Debit Card,5G,No,No,No,No,,1639.61,1639.61,0-12,Adult,0.0
+C1328,Vikas Yadav,Female,52.0,Karnataka,Mysuru,69.0,Basic,2244.78,155290.82,One Year,Credit Card,5G,Yes,No,No,No,,154889.82,2244.78,49-72,Adult,0.0
+C1329,Sneha Jain,Female,24.0,Gujarat,Surat,23.0,Premium,620.87,13831.01,Month-To-Month,Unknown,Cable,No,No,No,Yes,,14280.01,620.87,13-24,Adult,1.0
+C1330,Rohit Kumar,Female,69.0,Gujarat,Surat,42.0,Premium,1854.87,78289.54,Month-To-Month,Cash,DSL,Yes,Yes,No,No,,77904.54,1854.87,25-48,Senior,0.0
+C1331,Vikas Yadav,Female,41.0,Up,Kanpur,36.059548254620125,Standard,1380.6,63448.6,Month-To-Month,UPI,Fiber,No,No,Yes,Yes,,49783.81232032854,1380.6,25-48,Adult,1.0
+C1332,Vikas Yadav,Male,52.0,Gujarat,Ahmedabad,36.0,Standard,1982.66,71618.76,Two Year,Cash,Cable,Yes,No,Yes,Yes,,71375.76000000001,1982.66,25-48,Adult,1.0
+C1333,Priya Gupta,Male,33.0,Delhi,Delhi,16.0,Basic,2211.48,35084.68,Two Year,Net Banking,Fiber,No,No,No,No,2025-02-08,35383.68,2211.48,13-24,Adult,0.0
+C1334,Pooja Singh,Female,37.0,Up,Lucknow,20.0,Basic,2027.13,40649.6,Month-To-Month,Credit Card,DSL,Yes,No,No,No,,40542.600000000006,2027.13,13-24,Adult,0.0
+C1335,Vikas Yadav,Female,34.0,Gujarat,Surat,57.0,Standard,1983.52,112861.64,Month-To-Month,Credit Card,DSL,No,No,No,No,,113060.64,1983.52,49-72,Adult,0.0
+C1336,Sneha Jain,Male,54.0,Up,Lucknow,16.0,Standard,1495.41,24062.56,One Year,UPI,Cable,Yes,No,No,Yes,2025-07-11,23926.56,1495.41,13-24,Adult,1.0
+C1337,Rahul Singh,Male,56.0,Up,Lucknow,33.0,Basic,623.27,20260.91,Two Year,Cash,Cable,Yes,No,No,No,,20567.91,623.27,25-48,Adult,0.0
+C1338,Sneha Jain,Female,36.0,Gujarat,Ahmedabad,38.0,Basic,1201.39,45995.82,Month-To-Month,Cash,5G,No,No,Yes,No,,45652.82000000001,1201.39,25-48,Adult,0.0
+C1339,Priya Gupta,Male,59.0,Delhi,Noida,62.0,Standard,2090.07,130063.34,Month-To-Month,Credit Card,Fiber,Yes,No,No,No,,129584.34000000001,2090.07,49-72,Adult,0.0
+C1340,Priya Gupta,Female,65.0,Up,Lucknow,46.0,Premium,1877.79,86421.34,Month-To-Month,Debit Card,5G,Yes,Yes,Yes,Yes,2025-03-07,86378.34,1877.79,25-48,Senior,1.0
+C1341,Rohit Kumar,Male,47.0,Up,Kanpur,45.0,Standard,2366.86,106908.7,Month-To-Month,Cash,5G,No,No,Yes,No,,106508.70000000001,2366.86,25-48,Adult,0.0
+C1342,Vikas Yadav,Male,33.0,Gujarat,Ahmedabad,20.0,Standard,422.02,8606.4,One Year,Net Banking,Fiber,Yes,No,No,No,2025-03-04,8440.4,422.02,13-24,Adult,0.0
+C1343,Sneha Jain,Female,18.0,Maharashtra,Mumbai,21.0,Standard,1217.44,25198.24,Month-To-Month,Debit Card,DSL,No,No,Yes,No,,25566.24,1217.44,13-24,Adult,0.0
+C1344,Vikas Yadav,Male,70.0,Maharashtra,Pune,41.0,Premium,1177.61,48486.01,Month-To-Month,UPI,Fiber,No,Yes,Yes,No,2025-10-10,48282.009999999995,1177.61,25-48,Senior,0.0
+C1345,Rahul Singh,Female,61.0,Up,Lucknow,56.0,Premium,2413.74,135294.44,One Year,UPI,Cable,No,Yes,No,No,,135169.44,2413.74,49-72,Senior,0.0
+C1346,Amit Sharma,Male,54.0,Up,Lucknow,41.0,Premium,817.66,33239.06,Two Year,Credit Card,Cable,Yes,No,Yes,No,,33524.06,817.66,25-48,Adult,0.0
+C1347,Mohit Arora,Male,64.0,Up,Kanpur,71.0,Premium,736.39,51845.69,Month-To-Month,Net Banking,Fiber,No,Yes,No,No,,52283.69,736.39,49-72,Senior,0.0
+C1348,Neha Verma,Male,55.0,Maharashtra,Mumbai,53.0,Basic,2278.26,120609.78,Two Year,Unknown,Cable,No,No,No,No,,120747.78000000001,2278.26,49-72,Adult,0.0
+C1349,Pooja Singh,Male,58.0,Karnataka,Bengaluru,46.0,Premium,1546.45,71291.7,Month-To-Month,Net Banking,Fiber,No,No,Yes,No,2025-08-04,71136.7,1546.45,25-48,Adult,0.0
+C1350,Rohit Kumar,Female,23.0,Delhi,Noida,5.0,Premium,357.15,1498.75,Two Year,Net Banking,DSL,Yes,No,No,Yes,,1785.75,357.15,0-12,Adult,1.0
+C1351,,Male,54.0,Up,Lucknow,12.0,Premium,687.87,8251.44,Two Year,Cash,Cable,No,No,No,No,,8254.44,687.87,0-12,Adult,0.0
+C1352,Pooja Singh,Male,45.0,Maharashtra,Pune,24.0,Standard,1162.24,28043.76,Month-To-Month,Net Banking,5G,No,No,Yes,No,,27893.760000000002,1162.24,13-24,Adult,0.0
+C1353,Rohit Kumar,Female,24.0,Karnataka,Bengaluru,72.0,Premium,1840.23,132348.56,Month-To-Month,UPI,5G,No,No,Yes,No,,132496.56,1840.23,49-72,Adult,0.0
+C1354,Sneha Jain,Female,20.0,Up,Kanpur,19.0,Standard,1229.72,23435.68,Two Year,Net Banking,DSL,No,No,No,No,,23364.68,1229.72,13-24,Adult,0.0
+C1355,Rahul Singh,Female,35.0,Karnataka,Mysuru,65.0,Basic,489.86,32005.9,Two Year,UPI,DSL,No,No,No,No,,31840.9,489.86,49-72,Adult,0.0
+C1356,Vikas Yadav,Female,30.0,Karnataka,Bengaluru,17.0,Basic,1564.03,26744.51,Two Year,Cash,Cable,Yes,No,No,Yes,2025-08-08,26588.51,1564.03,13-24,Adult,1.0
+C1357,Rohit Kumar,Male,28.0,Gujarat,Surat,24.0,Premium,682.23,16836.52,Month-To-Month,Cash,Cable,No,No,No,No,2025-12-06,16373.52,682.23,13-24,Adult,0.0
+C1358,Anjali Mehta,Male,21.0,Maharashtra,Mumbai,28.0,Basic,1035.48,29163.44,One Year,Credit Card,Fiber,Yes,No,Yes,No,,28993.440000000002,1035.48,25-48,Adult,0.0
+C1359,Rohit Kumar,Male,52.0,Gujarat,Ahmedabad,4.0,Standard,1278.99,4706.96,Two Year,Net Banking,Cable,Yes,No,No,No,2025-03-08,5115.96,1278.99,0-12,Adult,0.0
+C1360,Neha Verma,Male,26.0,Maharashtra,Mumbai,62.0,Basic,453.65,28198.3,Month-To-Month,Credit Card,Fiber,Yes,No,No,No,,28126.3,453.65,49-72,Adult,0.0
+C1361,Vikas Yadav,Male,57.0,Gujarat,Ahmedabad,60.0,Basic,2061.5,123659.0,Month-To-Month,Debit Card,DSL,No,No,Yes,No,,123690.0,2061.5,49-72,Adult,0.0
+C1362,Mohit Arora,Male,30.0,Maharashtra,Mumbai,27.0,Basic,1082.87,29479.49,Two Year,Credit Card,Fiber,Yes,No,No,No,,29237.489999999998,1082.87,25-48,Adult,0.0
+C1363,Rohit Kumar,Male,46.0,Karnataka,Bengaluru,55.0,Basic,503.31,27921.05,Month-To-Month,UPI,DSL,Yes,No,No,No,,27682.05,503.31,49-72,Adult,0.0
+C1364,Rahul Singh,Female,37.0,Delhi,Delhi,11.0,Basic,513.93,5329.23,Two Year,Unknown,Fiber,No,No,Yes,Yes,2025-12-10,5653.23,513.93,0-12,Adult,1.0
+C1365,Neha Verma,Female,57.0,Up,Lucknow,6.0,Standard,588.75,4028.5,One Year,Debit Card,Fiber,Yes,No,Yes,Yes,,3532.5,588.75,0-12,Adult,1.0
+C1366,Vikas Yadav,Male,47.0,Karnataka,Mysuru,7.0,Basic,1240.23,8256.61,Month-To-Month,Cash,Cable,No,No,No,No,,8681.61,1240.23,0-12,Adult,0.0
+C1367,Mohit Arora,Female,67.0,Maharashtra,Mumbai,44.0,Basic,1774.35,78101.4,Month-To-Month,UPI,5G,No,Yes,No,No,2025-05-07,78071.4,1774.35,25-48,Senior,0.0
+C1369,Rohit Kumar,Female,21.0,Up,Lucknow,27.0,Standard,1285.78,34283.06,One Year,Cash,Fiber,No,No,No,Yes,,34716.06,1285.78,25-48,Adult,1.0
+C1370,Neha Verma,Male,21.0,Gujarat,Ahmedabad,48.0,Basic,1711.37,81760.76,Month-To-Month,Unknown,Cable,Yes,No,Yes,Yes,,82145.76,1711.37,25-48,Adult,1.0
+C1371,Rohit Kumar,Female,19.0,Delhi,Noida,33.0,Premium,884.55,28799.15,One Year,Net Banking,DSL,Yes,No,No,No,,29190.149999999998,884.55,25-48,Adult,0.0
+C1372,Anjali Mehta,Male,24.0,Gujarat,Ahmedabad,30.0,Premium,2179.73,65410.9,Month-To-Month,Credit Card,Fiber,Yes,No,No,No,2025-01-08,65391.9,2179.73,25-48,Adult,0.0
+C1373,Sneha Jain,Male,25.0,Maharashtra,Mumbai,39.0,Basic,2173.8,84530.2,Month-To-Month,Cash,DSL,Yes,No,Yes,No,2025-07-04,84778.20000000001,2173.8,25-48,Adult,0.0
+C1374,Rohit Kumar,Male,27.0,Up,Lucknow,38.0,Basic,553.08,20926.04,Two Year,Cash,Cable,Yes,No,Yes,No,,21017.04,553.08,25-48,Adult,0.0
+C1375,Rahul Singh,Male,49.0,Up,Kanpur,46.0,Basic,1066.75,49570.5,Month-To-Month,Credit Card,5G,No,No,Yes,Yes,,49070.5,1066.75,25-48,Adult,1.0
+C1376,Neha Verma,Male,70.0,Delhi,Noida,68.0,Basic,2351.84,160242.12,Two Year,Credit Card,DSL,Yes,Yes,No,No,,159925.12,2351.84,49-72,Senior,0.0
+C1377,Rahul Singh,Male,62.0,Karnataka,Mysuru,6.0,Basic,959.23,5802.38,Month-To-Month,Cash,5G,No,Yes,No,No,2025-04-08,5755.38,959.23,0-12,Senior,0.0
+C1378,Sneha Jain,Female,49.0,Gujarat,Ahmedabad,23.0,Standard,951.1,22119.3,One Year,Debit Card,Cable,No,No,No,No,,21875.3,951.1,13-24,Adult,0.0
+C1379,Priya Gupta,Male,23.0,Up,Lucknow,42.0,Basic,1839.66,77020.72,One Year,Debit Card,Fiber,No,No,No,No,2026-03-02,77265.72,1839.66,25-48,Adult,0.0
+C1380,Sneha Jain,Female,34.0,Maharashtra,Mumbai,42.0,Basic,1681.74,70355.08,Month-To-Month,Debit Card,Cable,No,No,No,No,2026-06-01,70633.08,1681.74,25-48,Adult,0.0
+C1381,Neha Verma,Female,58.0,Karnataka,Mysuru,48.0,Basic,1585.66,75841.68,Two Year,Cash,Fiber,No,No,No,Yes,,76111.68000000001,1585.66,25-48,Adult,1.0
+C1382,Rahul Singh,Female,45.0,Karnataka,Bengaluru,31.0,Premium,1166.87,36025.97,Month-To-Month,Credit Card,5G,No,No,No,No,,36172.969999999994,1166.87,25-48,Adult,0.0
+C1383,Mohit Arora,Female,68.0,Gujarat,Surat,58.0,Premium,1255.25,72803.5,Two Year,UPI,5G,No,Yes,No,No,2025-10-02,72804.5,1255.25,49-72,Senior,0.0
+C1384,Sneha Jain,Male,68.0,Maharashtra,Pune,9.0,Standard,990.45,8982.05,Month-To-Month,UPI,Fiber,No,Yes,No,No,,8914.050000000001,990.45,0-12,Senior,0.0
+C1385,Priya Gupta,Male,59.0,Up,Kanpur,12.0,Premium,805.21,10129.52,One Year,Debit Card,DSL,No,No,Yes,No,,9662.52,805.21,0-12,Adult,0.0
+C1386,Rahul Singh,Male,28.0,Gujarat,Surat,5.0,Premium,913.49,4141.45,Two Year,Net Banking,DSL,No,No,Yes,No,,4567.45,913.49,0-12,Adult,0.0
+C1387,Rahul Singh,Female,37.0,Gujarat,Surat,40.0,Standard,1237.37,49381.8,Two Year,Net Banking,Cable,Yes,No,Yes,No,,49494.799999999996,1237.37,25-48,Adult,0.0
+C1388,Vikas Yadav,Female,57.0,Maharashtra,Pune,60.0,Standard,630.0,37939.0,Two Year,Cash,Fiber,No,No,No,No,,37800.0,630.0,49-72,Adult,0.0
+C1389,Amit Sharma,Female,63.0,Karnataka,Bengaluru,16.0,Standard,1601.82,25847.12,Month-To-Month,Net Banking,Cable,No,Yes,No,No,2026-03-05,25629.12,1601.82,13-24,Senior,0.0
+C1390,Anjali Mehta,Female,44.0,Gujarat,Surat,64.0,Premium,1409.92,89815.88,One Year,Net Banking,5G,No,No,No,No,,90234.88,1409.92,49-72,Adult,0.0
+C1391,Pooja Singh,Male,43.0,Maharashtra,Mumbai,41.0,Premium,1604.45,66098.45,Month-To-Month,Debit Card,DSL,Yes,No,No,Yes,2025-05-10,65782.45,1604.45,25-48,Adult,1.0
+C1392,Mohit Arora,Male,49.0,Delhi,Delhi,44.0,Premium,2450.76,108224.44,Month-To-Month,Cash,Cable,Yes,No,Yes,No,2026-10-02,107833.44,2450.76,25-48,Adult,0.0
+C1393,Vikas Yadav,Male,36.0,Karnataka,Mysuru,1.0,Basic,2093.42,1966.42,One Year,Credit Card,Fiber,No,No,Yes,No,,2093.42,2093.42,0-12,Adult,0.0
+C1394,Mohit Arora,Male,46.0,Delhi,Delhi,67.0,Premium,582.28,39052.76,One Year,Cash,Cable,No,No,No,No,,39012.759999999995,582.28,49-72,Adult,0.0
+C1395,Anjali Mehta,Female,62.0,Delhi,Delhi,4.0,Premium,1729.61,6813.44,Two Year,UPI,5G,No,Yes,Yes,No,,6918.44,1729.61,0-12,Senior,0.0
+C1396,Mohit Arora,Female,27.0,Up,Lucknow,41.0,Premium,1169.01,48281.41,Two Year,Net Banking,DSL,Yes,No,Yes,No,,47929.409999999996,1169.01,25-48,Adult,0.0
+C1397,Vikas Yadav,Male,34.0,Delhi,Delhi,33.0,Premium,1176.2,38543.6,Month-To-Month,UPI,DSL,No,No,No,No,,38814.6,1176.2,25-48,Adult,0.0
+C1398,Neha Verma,Male,37.0,Karnataka,Bengaluru,27.0,Basic,2130.92,57576.84,Two Year,Credit Card,Fiber,No,No,No,Yes,2025-12-11,57534.840000000004,2130.92,25-48,Adult,1.0
+C1399,Neha Verma,Female,35.0,Karnataka,Mysuru,20.0,Premium,1011.73,19898.6,Month-To-Month,Net Banking,DSL,No,No,Yes,No,,20234.6,1011.73,13-24,Adult,0.0
+C1400,Anjali Mehta,Female,43.0,Maharashtra,Pune,36.059548254620125,Basic,377.24,23440.12,Two Year,Unknown,DSL,Yes,No,No,No,,13603.103983572897,377.24,25-48,Adult,0.0
+C1401,Pooja Singh,Male,61.0,Karnataka,Mysuru,51.0,Basic,864.54,44075.54,One Year,Cash,Cable,Yes,Yes,No,No,,44091.54,864.54,49-72,Senior,0.0
+C1402,Vikas Yadav,Male,56.0,Up,Lucknow,9.0,Standard,337.27,2723.43,Two Year,Cash,5G,Yes,No,No,No,,3035.43,337.27,0-12,Adult,0.0
+C1403,Neha Verma,Female,69.0,Delhi,Noida,1.0,Premium,1311.78,1116.78,One Year,Credit Card,5G,Yes,Yes,No,No,,1311.78,1311.78,0-12,Senior,0.0
+C1404,Priya Gupta,Male,29.0,Karnataka,Bengaluru,55.0,Standard,681.92,37411.6,Two Year,Net Banking,Cable,Yes,No,Yes,No,,37505.6,681.92,49-72,Adult,0.0
+C1405,Neha Verma,Female,54.0,Delhi,Delhi,55.0,Basic,2404.45,132201.75,One Year,Net Banking,Cable,Yes,No,No,No,2025-01-02,132244.75,2404.45,49-72,Adult,0.0
+C1406,Rahul Singh,Female,28.0,Gujarat,Surat,46.0,Premium,2048.65,94269.9,Two Year,Credit Card,Cable,Yes,No,No,Yes,,94237.90000000001,2048.65,25-48,Adult,1.0
+C1407,Vikas Yadav,Female,44.0,Maharashtra,Mumbai,50.0,Basic,2394.5,119698.0,Month-To-Month,Cash,DSL,Yes,No,No,No,,119725.0,2394.5,49-72,Adult,0.0
+C1408,Vikas Yadav,Male,59.0,Karnataka,Mysuru,56.0,Premium,2010.84,112584.04,One Year,Cash,DSL,No,No,Yes,No,2026-03-06,112607.04,2010.84,49-72,Adult,0.0
+C1409,Pooja Singh,Female,48.0,Karnataka,Mysuru,18.0,Premium,473.7,8687.6,Month-To-Month,Cash,Fiber,No,No,Yes,No,,8526.6,473.7,13-24,Adult,0.0
+C1410,Anjali Mehta,Female,54.0,Up,Kanpur,3.0,Premium,2417.64,6833.92,Two Year,Net Banking,Cable,Yes,No,No,No,,7252.92,2417.64,0-12,Adult,0.0
+C1411,Priya Gupta,Male,52.0,Maharashtra,Mumbai,6.0,Basic,2318.66,14104.96,Month-To-Month,UPI,DSL,No,No,Yes,No,,13911.96,2318.66,0-12,Adult,0.0
+C1412,Amit Sharma,Female,41.0,Maharashtra,Pune,41.0,Standard,1608.86,66145.26,Two Year,Net Banking,Fiber,No,No,Yes,Yes,2026-10-01,65963.26,1608.86,25-48,Adult,1.0
+C1413,Pooja Singh,Female,38.0,Delhi,Noida,28.0,Basic,1244.12,34736.36,Month-To-Month,Debit Card,5G,Yes,No,Yes,No,2025-11-11,34835.36,1244.12,25-48,Adult,0.0
+C1414,Rohit Kumar,Male,22.0,Up,Kanpur,26.0,Standard,1435.33,37799.58,Two Year,Debit Card,5G,No,No,Yes,Yes,,37318.58,1435.33,25-48,Adult,1.0
+C1415,Sneha Jain,Female,25.0,Karnataka,Bengaluru,43.0,Basic,1727.98,74606.14,Two Year,Cash,Fiber,Yes,No,No,No,2025-06-06,74303.14,1727.98,25-48,Adult,0.0
+C1416,Rohit Kumar,Male,38.0,Up,Kanpur,43.0,Standard,1839.61,79453.23,Two Year,UPI,5G,Yes,No,Yes,Yes,2025-02-11,79103.23,1839.61,25-48,Adult,1.0
+C1417,Neha Verma,Male,39.0,Karnataka,Bengaluru,27.0,Premium,2433.78,65600.06,Two Year,Net Banking,5G,No,No,No,Yes,2025-07-09,65712.06000000001,2433.78,25-48,Adult,1.0
+C1418,Amit Sharma,Female,66.0,Gujarat,Ahmedabad,43.0,Basic,2132.05,91950.15,Month-To-Month,Net Banking,DSL,No,Yes,No,No,,91678.15000000001,2132.05,25-48,Senior,0.0
+C1419,Amit Sharma,Male,63.0,Delhi,Noida,18.0,Standard,1391.93,25357.74,Month-To-Month,Credit Card,,No,Yes,Yes,Yes,,25054.74,1391.93,13-24,Senior,1.0
+C1421,Pooja Singh,Male,31.0,Karnataka,Mysuru,39.0,Premium,494.12,19544.68,One Year,Net Banking,DSL,No,No,Yes,No,,19270.68,494.12,25-48,Adult,0.0
+C1422,Mohit Arora,Female,26.0,Karnataka,Bengaluru,67.0,Premium,543.02,36214.34,One Year,UPI,Cable,No,No,Yes,Yes,2025-10-11,36382.34,543.02,49-72,Adult,1.0
+C1423,Neha Verma,Female,24.0,Karnataka,Bengaluru,71.0,Basic,1718.77,121754.67,One Year,Credit Card,Fiber,No,No,No,No,2025-05-11,122032.67,1718.77,49-72,Adult,0.0
+C1424,Anjali Mehta,Female,39.0,Karnataka,Mysuru,11.0,Basic,2180.79,24062.69,Month-To-Month,UPI,Cable,Yes,No,Yes,No,,23988.69,2180.79,0-12,Adult,0.0
+C1425,Neha Verma,Female,44.0,Gujarat,Surat,6.0,Standard,484.01,2707.06,One Year,Cash,Fiber,No,No,Yes,No,,2904.06,484.01,0-12,Adult,0.0
+C1426,Sneha Jain,Female,35.0,Maharashtra,Pune,11.0,Basic,474.09,5092.99,Two Year,Debit Card,Cable,Yes,No,Yes,No,,5214.99,474.09,0-12,Adult,0.0
+C1427,Sneha Jain,Female,40.0,Up,Lucknow,69.0,Premium,1165.28,79953.32,One Year,Net Banking,Cable,No,No,Yes,Yes,,80404.31999999999,1165.28,49-72,Adult,1.0
+C1428,Rahul Singh,Male,43.0,Maharashtra,Mumbai,7.0,Premium,457.39,3538.73,Two Year,Cash,5G,No,No,Yes,No,,3201.73,457.39,0-12,Adult,0.0
+C1429,Sneha Jain,Female,61.0,Karnataka,Bengaluru,42.0,Premium,1959.7,82695.4,Two Year,Credit Card,DSL,No,Yes,No,No,2025-08-06,82307.40000000001,1959.7,25-48,Senior,0.0
+C1430,Priya Gupta,Male,40.0,Up,Kanpur,54.0,Basic,1279.31,69293.74,Month-To-Month,Credit Card,5G,No,No,Yes,No,2026-01-02,69082.73999999999,1279.31,49-72,Adult,0.0
+C1431,Pooja Singh,Female,38.0,Karnataka,Mysuru,40.0,Standard,2483.32,99454.8,Month-To-Month,UPI,DSL,No,No,Yes,Yes,2025-01-01,99332.8,2483.32,25-48,Adult,1.0
+C1432,Pooja Singh,Male,64.0,Karnataka,Bengaluru,2.0,Standard,323.06,354.12,Month-To-Month,Debit Card,DSL,Yes,,No,Yes,,646.12,323.06,0-12,Senior,1.0
+C1433,Mohit Arora,Male,63.0,Karnataka,Bengaluru,13.0,Standard,2226.22,28583.86,Two Year,Cash,Cable,No,Yes,Yes,No,,28940.859999999997,2226.22,13-24,Senior,0.0
+C1434,Rohit Kumar,Female,22.0,Gujarat,Ahmedabad,52.0,Standard,580.08,30608.16,One Year,Net Banking,Cable,Yes,No,No,No,2025-03-12,30164.160000000003,580.08,49-72,Adult,0.0
+C1435,Rahul Singh,Male,64.0,Karnataka,Bengaluru,2.0,Premium,835.44,2020.88,Two Year,Net Banking,5G,No,Yes,No,No,,1670.88,835.44,0-12,Senior,0.0
+C1436,Rohit Kumar,Male,67.0,Maharashtra,Mumbai,1.0,Standard,379.7,772.7,Month-To-Month,Unknown,Fiber,Yes,Yes,No,No,,379.7,379.7,0-12,Senior,0.0
+C1437,Sneha Jain,Female,56.0,Up,,2.0,Premium,873.54,1712.08,Month-To-Month,Unknown,5G,No,No,No,No,2025-02-05,1747.08,873.54,0-12,Adult,0.0
+C1438,Mohit Arora,Male,63.0,Karnataka,Mysuru,51.0,Standard,1181.01,60528.51,One Year,Cash,Fiber,Yes,Yes,Yes,No,2025-12-07,60231.51,1181.01,49-72,Senior,0.0
+C1439,Neha Verma,Female,29.0,Gujarat,Surat,15.0,Standard,956.3,14816.5,One Year,Debit Card,DSL,Yes,No,No,No,,14344.5,956.3,13-24,Adult,0.0
+C1440,Sneha Jain,Male,26.0,Delhi,Noida,4.0,Standard,311.28,1074.12,Two Year,Credit Card,Fiber,Yes,No,No,No,2025-08-08,1245.12,311.28,0-12,Adult,0.0
+C1441,Neha Verma,Female,61.0,Gujarat,Ahmedabad,54.0,Premium,1346.15,72635.1,Two Year,UPI,Fiber,Yes,Yes,Yes,No,2026-06-03,72692.1,1346.15,49-72,Senior,0.0
+C1442,Pooja Singh,Male,65.0,Delhi,Noida,47.0,Basic,607.65,28112.55,One Year,Debit Card,Fiber,No,Yes,Yes,Yes,2025-07-06,28559.55,607.65,25-48,Senior,1.0
+C1443,Anjali Mehta,Male,68.0,Karnataka,Bengaluru,16.0,Basic,406.8,6326.8,One Year,Debit Card,5G,Yes,Yes,Yes,Yes,,6508.8,406.8,13-24,Senior,1.0
+C1444,Neha Verma,Male,29.0,Karnataka,Mysuru,47.0,Premium,953.53,44956.91,Month-To-Month,Credit Card,Cable,Yes,No,Yes,No,2025-03-02,44815.909999999996,953.53,25-48,Adult,0.0
+C1445,Pooja Singh,Female,67.0,Up,Kanpur,6.0,Standard,2316.66,13414.96,One Year,UPI,Fiber,No,Yes,No,Yes,2025-03-04,13899.96,2316.66,0-12,Senior,1.0
+C1446,Pooja Singh,Female,18.0,Delhi,Noida,25.0,Standard,1682.62,42416.5,Two Year,Debit Card,Fiber,No,No,Yes,No,2025-08-11,42065.5,1682.62,25-48,Adult,0.0
+C1447,Pooja Singh,Female,66.0,Gujarat,Surat,19.0,Premium,1755.3,33260.7,Two Year,Credit Card,5G,No,Yes,Yes,No,,33350.7,1755.3,13-24,Senior,0.0
+C1448,Pooja Singh,Female,32.0,Karnataka,Mysuru,67.0,Premium,1628.87,109324.29,Two Year,UPI,Fiber,No,No,Yes,Yes,,109134.29,1628.87,49-72,Adult,1.0
+C1449,Rohit Kumar,Female,45.0,Karnataka,Mysuru,6.0,Premium,2172.02,13151.12,Two Year,Credit Card,Fiber,Yes,No,Yes,No,,13032.119999999999,2172.02,0-12,Adult,0.0
+C1450,Rohit Kumar,Male,53.0,Maharashtra,Pune,10.0,Basic,714.58,7573.8,One Year,Debit Card,,No,No,No,No,,7145.8,714.58,0-12,Adult,0.0
+C1451,Pooja Singh,Male,31.0,Gujarat,Surat,34.0,Standard,2375.12,80446.08,Two Year,Debit Card,Fiber,No,No,No,No,,80754.08,2375.12,25-48,Adult,0.0
+C1452,Priya Gupta,Female,62.0,Karnataka,Mysuru,23.0,Premium,1719.93,39193.39,Month-To-Month,Credit Card,5G,Yes,Yes,Yes,Yes,,39558.39,1719.93,13-24,Senior,1.0
+C1453,Rahul Singh,Male,61.0,Karnataka,Mysuru,21.0,Standard,1845.97,38340.37,Two Year,Cash,5G,No,Yes,Yes,Yes,2025-11-10,38765.37,1845.97,13-24,Senior,1.0
+C1454,Rahul Singh,Female,31.0,Karnataka,Bengaluru,58.0,Premium,2098.53,121647.74,One Year,Net Banking,Fiber,No,No,No,No,,121714.74,2098.53,49-72,Adult,0.0
+C1455,Priya Gupta,Male,53.0,Delhi,Noida,61.0,Standard,428.89,25871.29,Month-To-Month,Debit Card,DSL,Yes,No,Yes,No,,26162.29,428.89,49-72,Adult,0.0
+C1456,Amit Sharma,,47.0,Karnataka,Bengaluru,24.0,Premium,1752.46,41573.04,Two Year,Net Banking,DSL,No,No,Yes,No,,42059.04,1752.46,13-24,Adult,0.0
+C1458,Mohit Arora,Male,21.0,Up,Lucknow,70.0,Basic,1784.96,125120.2,Month-To-Month,Net Banking,Fiber,No,No,No,No,2025-04-04,124947.2,1784.96,49-72,Adult,0.0
+C1459,Vikas Yadav,Female,48.0,Karnataka,Mysuru,72.0,Basic,521.31,37818.32,Month-To-Month,Cash,Fiber,Yes,No,No,No,,37534.31999999999,521.31,49-72,Adult,0.0
+C1460,Mohit Arora,Female,39.0,Gujarat,Surat,25.0,Premium,2391.71,59781.75,Two Year,Credit Card,5G,Yes,No,No,No,2025-12-05,59792.75,2391.71,25-48,Adult,0.0
+C1461,Amit Sharma,Female,57.0,Up,Kanpur,69.0,Basic,510.01,35546.69,Month-To-Month,UPI,5G,No,No,Yes,No,,35190.69,510.01,49-72,Adult,0.0
+C1462,Sneha Jain,Female,19.0,Maharashtra,Pune,48.0,Standard,1623.23,78061.04,One Year,Net Banking,Fiber,No,No,No,No,2025-11-06,77915.04000000001,1623.23,25-48,Adult,0.0
+C1463,Mohit Arora,Male,39.0,Karnataka,Bengaluru,2.0,Basic,676.97,993.94,Month-To-Month,Net Banking,Fiber,No,No,Yes,No,,1353.94,676.97,0-12,Adult,0.0
+C1464,Rohit Kumar,Male,25.0,Delhi,Delhi,17.0,Standard,2408.78,40952.26,Month-To-Month,UPI,5G,No,No,No,No,,40949.26,2408.78,13-24,Adult,0.0
+C1465,Anjali Mehta,Female,35.0,Up,Lucknow,43.0,Premium,1870.35,80328.05,Two Year,Cash,5G,No,No,No,No,,80425.05,1870.35,25-48,Adult,0.0
+C1466,Vikas Yadav,Female,64.0,Delhi,Noida,27.0,Standard,2232.77,60267.79,Month-To-Month,Credit Card,Cable,No,Yes,No,No,,60284.79,2232.77,25-48,Senior,0.0
+C1467,Amit Sharma,Female,18.0,Maharashtra,Mumbai,12.0,Standard,1627.51,19480.12,One Year,Net Banking,Cable,Yes,No,No,No,,19530.12,1627.51,0-12,Adult,0.0
+C1468,Anjali Mehta,Female,34.0,Karnataka,Mysuru,9.0,Premium,1830.06,16872.54,Two Year,UPI,Cable,No,No,No,Yes,,16470.54,1830.06,0-12,Adult,1.0
+C1469,Vikas Yadav,Male,43.0,Karnataka,Mysuru,27.0,Basic,1628.11,43534.97,One Year,UPI,DSL,Yes,No,No,No,,43958.969999999994,1628.11,25-48,Adult,0.0
+C1470,Mohit Arora,Female,59.0,Up,Lucknow,10.0,Premium,1944.19,19169.9,Two Year,Cash,DSL,Yes,No,Yes,Yes,,19441.9,1944.19,0-12,Adult,1.0
+C1471,Sneha Jain,Male,41.0,Up,Lucknow,35.0,Standard,1927.08,67686.8,One Year,Unknown,Cable,Yes,No,No,Yes,,67447.8,1927.08,25-48,Adult,1.0
+C1472,Vikas Yadav,Female,44.0,Maharashtra,Mumbai,26.0,Standard,1996.15,51762.9,Month-To-Month,UPI,5G,No,No,No,No,2026-04-05,51899.9,1996.15,25-48,Adult,0.0
+C1473,Sneha Jain,Female,36.0,,Surat,49.0,Basic,2485.13,121892.37,Two Year,Credit Card,DSL,Yes,No,Yes,No,,121771.37000000001,2485.13,49-72,Adult,0.0
+C1474,Anjali Mehta,Female,45.0,Karnataka,Mysuru,19.0,Standard,1078.76,20106.44,Month-To-Month,Net Banking,Fiber,No,,No,No,2025-11-11,20496.44,1078.76,13-24,Adult,0.0
+C1475,Pooja Singh,Male,47.0,Delhi,Delhi,25.0,Standard,607.53,15038.25,One Year,Credit Card,5G,No,No,Yes,No,,15188.25,607.53,25-48,Adult,0.0
+C1476,Anjali Mehta,Male,39.0,Delhi,Delhi,65.0,Standard,1168.56,75647.4,One Year,Net Banking,5G,Yes,No,Yes,No,,75956.4,1168.56,49-72,Adult,0.0
+C1477,Pooja Singh,Female,54.0,Gujarat,Surat,65.0,Premium,324.25,20679.25,One Year,Cash,Cable,No,No,Yes,No,2026-06-05,21076.25,324.25,49-72,Adult,0.0
+C1478,Amit Sharma,Female,21.0,Gujarat,Ahmedabad,14.0,Standard,683.44,9774.16,Two Year,UPI,Fiber,Yes,No,No,Yes,2025-06-06,9568.16,683.44,13-24,Adult,1.0
+C1479,Amit Sharma,Female,40.0,Up,Lucknow,45.0,Basic,1681.38,75709.1,Month-To-Month,Net Banking,5G,No,No,No,No,,75662.1,1681.38,25-48,Adult,0.0
+C1480,Vikas Yadav,Female,44.0,Delhi,Delhi,54.0,Premium,722.14,39351.56,Month-To-Month,Credit Card,DSL,Yes,No,No,No,,38995.56,722.14,49-72,Adult,0.0
+C1481,Priya Gupta,Female,53.0,Delhi,Delhi,38.0,Standard,1264.67,48510.46,One Year,Cash,Cable,Yes,No,Yes,No,,48057.46000000001,1264.67,25-48,Adult,0.0
+C1482,Vikas Yadav,Male,47.0,Gujarat,Surat,70.0,Basic,1036.78,72857.6,One Year,Debit Card,Cable,Yes,No,No,Yes,,72574.59999999999,1036.78,49-72,Adult,1.0
+C1483,Mohit Arora,Male,59.0,Gujarat,Ahmedabad,3.0,Premium,567.03,1282.09,One Year,Credit Card,5G,Yes,No,No,Yes,,1701.09,567.03,0-12,Adult,1.0
+C1484,Rohit Kumar,Male,61.0,Up,Lucknow,31.0,Standard,379.33,11644.23,One Year,Debit Card,Cable,Yes,Yes,Yes,No,,11759.23,379.33,25-48,Senior,0.0
+C1485,Sneha Jain,Female,65.0,Maharashtra,Pune,4.0,Premium,1192.59,4683.36,Month-To-Month,Net Banking,Cable,Yes,Yes,Yes,No,,4770.36,1192.59,0-12,Senior,0.0
+C1486,Rahul Singh,Female,45.0,Gujarat,Surat,6.0,Basic,667.02,4336.12,One Year,Cash,Cable,Yes,No,Yes,No,2025-06-06,4002.12,667.02,0-12,Adult,0.0
+C1487,Vikas Yadav,Male,43.0,Delhi,Delhi,65.0,Basic,438.94,28945.1,Month-To-Month,UPI,Cable,Yes,No,Yes,No,,28531.1,438.94,49-72,Adult,0.0
+C1488,Rohit Kumar,Male,19.0,Maharashtra,Pune,68.0,Basic,624.76,42272.68,One Year,Cash,Fiber,Yes,No,No,No,2025-11-02,42483.68,624.76,49-72,Adult,0.0
+C1489,Rohit Kumar,Female,67.0,Delhi,Delhi,66.0,Basic,777.7,50894.2,Month-To-Month,Credit Card,DSL,No,Yes,No,No,,51328.200000000004,777.7,49-72,Senior,0.0
+C1490,Rahul Singh,Male,48.0,Gujarat,Surat,10.0,Standard,1244.97,12274.7,Month-To-Month,Debit Card,Fiber,No,No,Yes,No,,12449.7,1244.97,0-12,Adult,0.0
+C1491,Vikas Yadav,Male,19.0,Delhi,Delhi,16.0,Standard,333.55,5620.8,Two Year,UPI,Fiber,No,No,No,Yes,2025-12-11,5336.8,333.55,13-24,Adult,1.0
+C1492,Priya Gupta,Female,51.0,Gujarat,Ahmedabad,43.0,Standard,2296.06,99135.58,Two Year,Debit Card,5G,Yes,No,Yes,Yes,2025-10-12,98730.58,2296.06,25-48,Adult,1.0
+C1493,Rohit Kumar,Female,38.0,Maharashtra,Mumbai,29.0,Premium,1737.19,50030.51,Month-To-Month,UPI,Fiber,No,No,Yes,No,,50378.51,1737.19,25-48,Adult,0.0
+C1494,Rahul Singh,Male,18.0,Karnataka,Mysuru,48.0,Standard,2065.89,99156.72,One Year,Debit Card,5G,No,No,No,No,,99162.72,2065.89,25-48,Adult,0.0
+C1495,Rohit Kumar,Female,20.0,Maharashtra,Pune,19.0,Standard,679.62,12768.78,One Year,Credit Card,5G,No,No,Yes,No,,12912.78,679.62,13-24,Adult,0.0
+C1496,Rohit Kumar,Female,67.0,Delhi,Delhi,24.0,Premium,2090.22,50146.28,One Year,UPI,5G,No,Yes,Yes,No,,50165.28,2090.22,13-24,Senior,0.0
+C1497,Anjali Mehta,Male,22.0,Gujarat,Surat,2.0,Standard,1824.86,3963.72,One Year,Credit Card,5G,No,No,Yes,No,,3649.72,1824.86,0-12,Adult,0.0
+C1498,Rahul Singh,Male,42.0,Gujarat,Ahmedabad,5.0,Premium,2291.52,11145.6,One Year,Net Banking,Fiber,Yes,No,No,Yes,,11457.6,2291.52,0-12,Adult,1.0
+C1499,Neha Verma,Male,53.0,Maharashtra,Mumbai,49.0,Basic,1576.96,77378.04,Month-To-Month,Credit Card,DSL,Yes,No,Yes,No,,77271.04000000001,1576.96,49-72,Adult,0.0
+C1500,Vikas Yadav,Male,69.0,Delhi,Noida,55.0,Standard,762.97,41542.35,Month-To-Month,Debit Card,Fiber,Yes,Yes,Yes,No,,41963.35,762.97,49-72,Senior,0.0
+C1501,Priya Gupta,Male,34.0,Gujarat,Ahmedabad,32.0,Premium,832.04,26207.28,Two Year,Cash,Fiber,Yes,No,No,Yes,2025-02-03,26625.28,832.04,25-48,Adult,1.0
+C1502,Pooja Singh,Female,22.0,Up,Kanpur,57.0,Premium,1247.24,70970.68,Two Year,UPI,5G,Yes,No,Yes,No,,71092.68000000001,1247.24,49-72,Adult,0.0
+C1503,Neha Verma,Male,32.0,Delhi,Delhi,54.0,Standard,1114.49,60134.46,One Year,UPI,Cable,Yes,No,No,Yes,2025-03-03,60182.46,1114.49,49-72,Adult,1.0
+C1504,Neha Verma,Male,45.0,Maharashtra,Mumbai,17.0,Premium,344.08,5617.36,Two Year,Cash,DSL,No,No,Yes,No,,5849.36,344.08,13-24,Adult,0.0
+C1505,Priya Gupta,Male,60.0,Up,Kanpur,48.0,Premium,1410.18,67658.64,Two Year,Debit Card,DSL,No,Yes,Yes,No,,67688.64,1410.18,25-48,Senior,0.0
+C1506,Vikas Yadav,Female,39.0,Karnataka,Bengaluru,15.0,Standard,1534.53,23099.95,Two Year,Debit Card,Fiber,No,No,No,No,2025-08-10,23017.95,1534.53,13-24,Adult,0.0
+C1507,Priya Gupta,Male,70.0,Delhi,Delhi,40.0,Premium,1810.71,72093.4,Two Year,Debit Card,Fiber,No,Yes,No,No,2025-02-02,72428.4,1810.71,25-48,Senior,0.0
+C1508,Pooja Singh,Female,65.0,Karnataka,Mysuru,22.0,Basic,1885.7,41437.4,Month-To-Month,Net Banking,DSL,No,Yes,Yes,No,,41485.4,1885.7,13-24,Senior,0.0
+C1509,Rahul Singh,Male,26.0,,Surat,38.0,Basic,759.7,29247.6,Two Year,Credit Card,DSL,Yes,No,No,No,2026-02-01,28868.600000000002,759.7,25-48,Adult,0.0
+C1510,Anjali Mehta,Female,70.0,Gujarat,Surat,48.0,Standard,336.89,16646.72,One Year,Credit Card,Cable,No,Yes,No,No,,16170.72,336.89,25-48,Senior,0.0
+C1511,Pooja Singh,Female,49.0,Up,Lucknow,53.0,Standard,1106.12,58209.36,One Year,Cash,5G,Yes,No,Yes,No,2025-07-10,58624.35999999999,1106.12,49-72,Adult,0.0
+C1512,Vikas Yadav,Female,44.0,Delhi,Noida,26.0,Standard,404.38,10820.88,One Year,Debit Card,Cable,No,No,Yes,No,,10513.88,404.38,25-48,Adult,0.0
+C1513,Amit Sharma,Female,41.0,Delhi,Delhi,66.0,Basic,2491.79,164476.14,Month-To-Month,Debit Card,Fiber,Yes,No,No,,2025-06-03,164458.13999999998,2491.79,49-72,Adult,
+C1514,Rahul Singh,Female,61.0,Delhi,Noida,46.0,Premium,556.13,25813.98,One Year,UPI,Cable,No,Yes,Yes,No,,25581.98,556.13,25-48,Senior,0.0
+C1515,Sneha Jain,Female,36.0,Gujarat,Ahmedabad,7.0,Standard,791.07,5794.49,Month-To-Month,Debit Card,5G,Yes,No,Yes,Yes,,5537.490000000001,791.07,0-12,Adult,1.0
+C1516,Amit Sharma,Male,48.0,Delhi,Delhi,17.0,Standard,1775.49,29818.33,Two Year,Credit Card,5G,Yes,No,Yes,No,,30183.33,1775.49,13-24,Adult,0.0
+C1517,Amit Sharma,Female,67.0,Karnataka,Mysuru,56.0,Standard,1008.21,56357.76,One Year,Credit Card,5G,No,Yes,Yes,Yes,,56459.76,1008.21,49-72,Senior,1.0
+C1518,Vikas Yadav,Male,47.0,Maharashtra,Pune,1.0,Premium,2473.81,2618.81,One Year,Cash,,No,No,,Yes,,2473.81,2473.81,0-12,Adult,1.0
+C1519,,Male,52.0,Karnataka,Bengaluru,39.0,Premium,718.22,27823.58,Month-To-Month,Unknown,Fiber,Yes,No,Yes,No,2025-11-02,28010.58,718.22,25-48,Adult,0.0
+C1522,Mohit Arora,Female,49.0,Up,Kanpur,43.0,Premium,2140.6,92290.8,Month-To-Month,Net Banking,DSL,No,,Yes,Yes,,92045.8,2140.6,25-48,Adult,1.0
+C1523,Sneha Jain,Male,36.0,Karnataka,Bengaluru,27.0,Standard,2436.13,65686.51,One Year,Debit Card,DSL,Yes,No,No,No,,65775.51000000001,2436.13,25-48,Adult,0.0
+C1018,Anikta Sharma,Female,41.0,Gujarat,Ahmedabad,48.0,Premium,2328.32,111299.36,Month-To-Month,Net Banking,Fiber,Yes,No,Yes,No,2025-04-06,111759.36000000002,2328.32,25-48,Adult,0.0
+C2001,Abhishek Jaiswal,Female,35.0,Maharashtra,Pune,58.0,Basic,1614.26,93273.08,One Year,UPI,Fiber,Yes,No,Yes,No,2025-12-10,93627.08,1614.26,49-72,Adult,0.0
+C5002,Pooja Singh,Female,42.0,Up,Kanpur,13.0,Basic,555.03,6869.39,Month-To-Month,Debit Card,5G,No,No,No,Yes,,7215.389999999999,555.03,13-24,Adult,1.0
+C5004,Mohit Arora,male,26.0,Gujarat,Ahmedabad,6.0,Premium,314.02,1926.12,One Year,Debit Card,Cable,Yes,No,No,No,2026-02-04,1884.12,314.02,0-12,Adult,0.0
+C5006,Neha Verma,Female,18.0,Delhi,Noida,70.0,Standard,2008.83,140376.1,Month-To-Month,UPI,DSL,Yes,No,No,No,,140618.1,2008.83,49-72,Adult,0.0
+C5007,Vikas Yadav,Male,61.0,Delhi,,57.0,Basic,2196.18,125145.26,One Year,Cash,Cable,Yes,Yes,Yes,No,,125182.26,2196.18,49-72,Senior,0.0
+C5008,Mohit Arora,Male,45.0,Gujarat,Ahmedabad,63.0,Basic,1200.0,75799.15,Two Year,Unknown,Fiber,Yes,No,No,No,,75600.0,1200.0,49-72,Adult,0.0
